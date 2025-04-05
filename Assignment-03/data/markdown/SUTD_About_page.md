@@ -5,7 +5,7 @@ description: "Provides an overview of SUTD, its mission, and its unique educatio
 ---
 # About SUTD
 
-SUTD integrates design, AI and technology into a holistic, interdisciplinary education and research experience. This unique approach encourages our students to push the boundaries of innovating solutions to real-world problems. Incorporation:**SUTD was incorporated in July 2009 as Singapore's fourth publicly funded university.** The university was officially inaugurated by President Tony Tan Keng Yam on May 7, 2012. SUTD's first academic year began in April 2012.
+SUTD integrates design, AI and technology into a holistic, interdisciplinary education and research experience. This unique approach encourages our students to push the boundaries of innovating solutions to real-world problems. SUTD was founded **in July 2009 as Singapore's fourth publicly funded university.** The university was officially inaugurated by President Tony Tan Keng Yam on May 7, 2012. SUTD's first academic year began in April 2012.
 
 ## Our Vision
 
