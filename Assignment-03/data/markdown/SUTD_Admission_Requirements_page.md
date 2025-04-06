@@ -24,8 +24,7 @@ Find out more about the minimum academic requirements for admission for the qual
 
 As admission to the University is competitive, we encourage you to ensure that your application covers the above areas holistically. The selection will be based on merit and a comprehensive review as outlined above.
 
-### Interview:
-A conversation (for selected candidates) with our faculty/leader will also provide SUTD with additional information to assess if you are a good fit.
+## Key Factors in Admission
 
 ### Academic competency
 * Focus on **Mathematics** and the **Sciences**, in the context of the opportunities afforded to applicants
@@ -45,5 +44,5 @@ A conversation (for selected candidates) with our faculty/leader will also provi
 * Strong **teacher recommendations**
 * Responses to our **personal insight questions**
 
-## Important Dates
-* **Application Deadlines:** Check the specific deadlines for each qualification type on the respective links provided above.
+### Interview
+A conversation (for selected candidates) with our faculty/leader will also provide SUTD with additional information to assess if you are a good fit.

@@ -56,15 +56,21 @@ Computational Thinking for Design (Term 1) and Spatial Design World (Term 3 elec
 The following core modules were developed with increased correlation between Mathematics and Physics in mind, with enhanced linkages and translation to the majors:
 
 ### Term 1:
-- Modelling and Analysis
-- Physical World
+- [Modelling and Analysis](https://www.sutd.edu.sg/course/10-013-modelling-and-analysis/)
+- [Physical World](https://www.sutd.edu.sg/course/10-015-physical-world/)
 
 ### Term 2:
-- Modelling Space and Systems
-- Technological World
+- [Modelling Space and Systems](https://www.sutd.edu.sg/course/10-018-modelling-space-and-systems/)
+- [Technological World](https://www.sutd.edu.sg/course/10-017-technological-world/)
 
 ### Term 3:
-- Modelling Uncertainty
+- [Modelling Uncertainty](https://www.sutd.edu.sg/course/10-022-modelling-uncertainty/)
+- [Global Humanities: Literature, Philosophy, and Ethics (HASS)](https://www.sutd.edu.sg/course/02-003-social-science-understanding-behaviour-culture-society/)
+- Any two electives:
+  - [Science and Technology for Healthcare](https://www.sutd.edu.sg/course/10-019-science-and-technology-for-healthcare-elective/) – Elective
+  - [Data Driven World](https://www.sutd.edu.sg/course/10-020/data-driven-world-elective/) – Elective
+  - [Designing Energy Systems](https://www.sutd.edu.sg/course/10-023/designing-energy-systems-elective/) – Elective
+  - [Spatial Design World](https://www.sutd.edu.sg/course/10-024/spatial-design-world/) – Elective
 
 ## Chemistry and Biology
 
@@ -73,28 +79,22 @@ Science for a Sustainable World (Term 2) and Science and Technology for Healthca
 ## List of Freshmore Subjects
 
 ### Term 1
-| Course Name |
-|-------------|
-| [Modelling and Analysis](https://www.sutd.edu.sg/course/10-013-modelling-and-analysis/) |
-| [Physical World](https://www.sutd.edu.sg/course/10-015-physical-world/) |
-| [Computational Thinking for Design](https://www.sutd.edu.sg/course/10-014-computational-thinking-for-design/) |
-| [Social Science: Understanding Behaviour, Culture & Society (HASS)](https://www.sutd.edu.sg/course/02-001-global-humanities-literature-philosophy-and-ethics/) |
+- [Modelling and Analysis](https://www.sutd.edu.sg/course/10-013-modelling-and-analysis/)
+- [Physical World](https://www.sutd.edu.sg/course/10-015-physical-world/)
+- [Computational Thinking for Design](https://www.sutd.edu.sg/course/10-014-computational-thinking-for-design/)
+- [Social Science: Understanding Behaviour, Culture & Society (HASS)](https://www.sutd.edu.sg/course/02-001-global-humanities-literature-philosophy-and-ethics/)
 
 ### Term 2
-| Course Name |
-|-------------|
-| [Modelling Space and Systems](https://www.sutd.edu.sg/course/10-018-modelling-space-and-systems/) |
-| [Technological World](https://www.sutd.edu.sg/course/10-017-technological-world/) |
-| [Science for a Sustainable World](https://www.sutd.edu.sg/course/10-016-science-for-a-sustainable-world/) |
-| [Design Thinking and Innovation](https://www.sutd.edu.sg/course/03-007-design-thinking-and-innovation/) |
+- [Modelling Space and Systems](https://www.sutd.edu.sg/course/10-018-modelling-space-and-systems/)
+- [Technological World](https://www.sutd.edu.sg/course/10-017-technological-world/)
+- [Science for a Sustainable World](https://www.sutd.edu.sg/course/10-016-science-for-a-sustainable-world/)
+- [Design Thinking and Innovation](https://www.sutd.edu.sg/course/03-007/design-thinking-and-innovation/)
 
 ### Term 3
-| Course Name |
-|-------------|
-| [Modelling Uncertainty](https://www.sutd.edu.sg/course/10-022-modelling-uncertainty/) |
-| [Global Humanities: Literature, Philosophy, and Ethics (HASS)](https://www.sutd.edu.sg/course/02-003-social-science-understanding-behaviour-culture-society/) |
-| Any two electives: |
-| [Science and Technology for Healthcare](https://www.sutd.edu.sg/course/10-019-science-and-technology-for-healthcare-elective/) – Elective |
-| [Data Driven World](https://www.sutd.edu.sg/course/10-020/data-driven-world-elective/) – Elective |
-| [Designing Energy Systems](https://www.sutd.edu.sg/course/10-023/designing-energy-systems-elective/) – Elective |
-| [Spatial Design World](https://www.sutd.edu.sg/course/10-024/spatial-design-world/) – Elective |
+- [Modelling Uncertainty](https://www.sutd.edu.sg/course/10-022-modelling-uncertainty/)
+- [Global Humanities: Literature, Philosophy, and Ethics (HASS)](https://www.sutd.edu.sg/course/02-003-social-science-understanding-behaviour-culture-society/)
+- Any two electives:
+  - [Science and Technology for Healthcare](https://www.sutd.edu.sg/course/10-019-science-and-technology-for-healthcare-elective/) – Elective
+  - [Data Driven World](https://www.sutd.edu.sg/course/10-020/data-driven-world-elective/) – Elective
+  - [Designing Energy Systems](https://www.sutd.edu.sg/course/10-023/designing-energy-systems-elective/) – Elective
+  - [Spatial Design World](https://www.sutd.edu.sg/course/10-024/spatial-design-world/) – Elective

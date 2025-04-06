@@ -47,7 +47,7 @@ You may refer to this step-by-step guide to prepare the information and document
   - declare any past convictions of a criminal offence  
   - share if you require any special assistance and/or facilities to support your disability, impairment or medical condition.  |
 | **Scholarships and Financial Aid** |  
-- Indicate if you wish to apply for [scholarships administered by SUTD (inclusive of donor-sponsored scholarships)](https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/) and/or [financial aid](https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/); and answer the questions to support your scholarships and/or financial aid application(s).  
+- Indicate if you wish to apply for [scholarships administered by SUTD](https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/) (inclusive of donor-sponsored scholarships) and/or [financial aid](https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/); and answer the questions to support your scholarships and/or financial aid application(s).  
 - Declare your gross monthly household income if you are applying for scholarships and/or financial aid.  |
 | **Special Programmes**  
 *This section is optional.* |  

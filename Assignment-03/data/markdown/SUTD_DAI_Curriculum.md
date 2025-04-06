@@ -46,12 +46,14 @@ description: "Provides details on the curriculum for the Design and Artificial I
 - [60.008 Systems Design Studio](https://www.sutd.edu.sg/course/60-008-systems-design-studio/)
 
 #### Term 7 (Sep – Dec)
-- **Vacation / Internship / Exchange**
+- **Capstone 1**
+- [60.006 Spatial Design Studio](https://www.sutd.edu.sg/course/60-006-spatial-design-studio/)
 
 #### Term 8 (Jan – Apr)
 - [01.401 Capstone 2](https://www.sutd.edu.sg/course/01-401-capstone-2/)
 
 ### List of Electives
+
 #### AI Related
 - [01.116 AI for Healthcare](https://www.sutd.edu.sg/repo/course/01-116-ai-for-healthcare/)
 - [50.038 Computation Data Science](https://www.sutd.edu.sg/repo/course/50-038-computational-data-science/)
@@ -76,7 +78,7 @@ description: "Provides details on the curriculum for the Design and Artificial I
 #### HASS
 - [02.143DH Artificial Intelligence and Ethics](https://www.sutd.edu.sg/repo/course/02-143dh-artificial-intelligence-and-ethics/)
 - [02.144DH Being in the World: from Homer and Heidegger to A.I.](https://www.sutd.edu.sg/repo/course/02-144dh-being-in-the-world-from-homer-and-heidegger-to-a-i/)
-- [02.155TS Design Anthropology](https://www.sutd.edu.sg/repo/course/02-155ts-design-anthropology/)
+- [02.155TS Design Anthropology](https://www.sutd.edu.sg/repo/course/02-155ht-design-anthropology/)
 - [02.228TS Design in the Anthropocene](https://www.sutd.edu.sg/repo/course/02-228ts-design-in-the-anthropocene/)
 - [02.216 Human Behaviour, Technology and Design](https://www.sutd.edu.sg/repo/course/02-216ts-human-behaviour-technology-and-design/)
 - [02.230TS Health Communication and Behavior Change](https://www.sutd.edu.sg/repo/course/02-230ts-health-communication-and-behavior-change/)
@@ -85,14 +87,17 @@ description: "Provides details on the curriculum for the Design and Artificial I
 - [02.159HT Equitable Tech: Reimagining Our Digital Infrastructures](https://www.sutd.edu.sg/repo/course/02-159ht-equitable-tech-reimagining-our-digital-infrastructures/)
 - [02.160TS Designing Digital Technology for Children and Teens](https://www.sutd.edu.sg/repo/course/02-160ts-designing-digital-technology-for-children-and-teens/)
 
-### Important Note
+### Important Notes
 - Curriculum is subject to change.
 
 ### Contact Information
-- **Email DAI:** [Contact SUTD](https://www.sutd.edu.sg/contact-us/contact-sutd/)
 - **Phone:** +65 6303 6600
+- **Email:** [Email DAI](mailto:contact@dai.sutd.edu.sg)
 - **Address:** 8 Somapah Rd, Singapore 487372
 
 ### Useful Links
+- [Admissions](https://www.sutd.edu.sg/admissions)
+- [Faculty](https://www.sutd.edu.sg/about/people/faculty/)
 - [Academic Calendar](https://www.sutd.edu.sg/education/undergraduate/academic-calendar/overview/ay2024-onwards/)
-- [SUTD Courses](https://www.sutd.edu.sg/education/undergraduate/courses/)
+- [Career Prospects](https://www.sutd.edu.sg/education/career-prospects/)
+- [FAQ](https://www.sutd.edu.sg/education/faq/)

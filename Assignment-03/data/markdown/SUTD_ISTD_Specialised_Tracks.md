@@ -23,9 +23,16 @@ Refer [here](https://www.sutd.edu.sg/wp-content/uploads/sites/4/2025/01/tracks-i
 ### Specialisation Tracks
 1. [Artificial Intelligence](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/artificial-intelligence/)
 2. [Custom Track](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/custom-track/)
-3. [Data Analytics](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/data-analytics)
+3. [Data Analytics](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/data-analytics/)
 4. [Financial Technology](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/financial-technology/)
 5. [IoT and Intelligent Systems](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/iot-and-intelligent-systems/)
 6. [Security](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/security/)
 7. [Software Engineering](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/software-engineering/)
 8. [Visual Analytics and Computing](https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/visual-analytics-and-computing/)
+
+## Important Dates
+* **Application Deadline:** Check the [academic calendar](https://www.sutd.edu.sg/istd/education/undergraduate/academic-calendar/overview/ay2024-onwards/) for specific dates.
+
+## Contact Information
+* **Phone:** +65 6303 6600
+* **Email:** [Contact SUTD](https://www.sutd.edu.sg/istd/contact-us/)

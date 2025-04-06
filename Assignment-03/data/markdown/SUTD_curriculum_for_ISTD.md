@@ -30,13 +30,13 @@ From AY2017 onwards, students who have, and maintain a CGPA of 3.5 or above (and
 ## Course Sequence
 The following diagram depicts the typical sequence of courses in the CSD curriculum. Each column from left to right represents the Spring (Jan-Apr), Summer (May-Aug) and Fall (Sept-Dec) terms respectively. SUTD students choose their pillar at the end of Term 3, and begin their pillar studies in Term 4.
 
-## Key Dates
-- **Application Deadlines**: Check the academic calendar for specific dates.
+## Important Dates
+- **Application Deadlines:** Check the academic calendar for specific dates.
 
 ## Contact Information
-- **Phone**: +65 6303 6600
-- **Email**: [Contact ISTD](mailto:istd@sutd.edu.sg)
+- **Phone:** +65 6303 6600
+- **Email:** [Contact ISTD](mailto:istd@sutd.edu.sg)
 
 ## Additional Resources
 - [Academic Calendar](https://www.sutd.edu.sg/istd/education/undergraduate/academic-calendar/overview/ay2024-onwards/)
-- [SUTD Courses](https://www.sutd.edu.sg/education/undergraduate/courses/)
+- [SUTD Courses](https://www.sutd.edu.sg/istd/education/undergraduate/courses/)

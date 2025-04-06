@@ -8,50 +8,44 @@ description: "Provides details on the curriculum for the Engineering Product Dev
 
 ## Undergraduate Programme
 
-### Apply Now
-[Apply now](https://www.sutd.edu.sg/admissions/undergraduate/)
-
 ### Curriculum Overview
 EPD Pillar equips you with the knowledge and skills to be a technically grounded leader in next-generation product development that addresses societal needs. Enjoy the unique experience of working with fellow students from different specialisation tracks on a common project whilst applying design theories and principles.
 
+### Important Dates
+- **Application Deadline:** Check the [Admissions page](https://www.sutd.edu.sg/epd/admissions) for specific dates.
+
+### Curriculum Structure
+#### Select Matriculation Year
+- **AY 2024 onwards**
+- **From AY2020 to AY2023**
+- **Before AY2020**
+
+### Course Structure
+#### Term 1 (Jan – Apr)
+- **10.013 Modelling and Analysis**  
+- **10.015 Physical World**  
+- **10.014 Computational Thinking for Design**  
+- **02.003 Social Science: Understanding Behaviour, Culture & Society**  
+
+#### Term 2 (May – Aug)
+- **10.018 Modelling Space and Systems**  
+- **10.017 Technological World**  
+- **10.016 Science for a Sustainable World**  
+- **03.007 Design Thinking and Innovation**  
+
+#### Term 3 (Sep – Dec)
+- **30.101 Systems & Control**  
+- **30.007 Engineering Design Innovation**  
+- **Electives**  
+
+### Electives
+- **10.019 Science and Technology for Healthcare**  
+- **10.020 Data Driven World**  
+- **10.023 Designing Energy Systems**  
+- **10.024 Spatial Design World**  
+
 ### Academic Calendar
-- **Term Dates**
-  - **AY 2024 Onwards**
-    - **Term 1**: Jan – Apr
-    - **Term 2**: May – Aug
-    - **Term 3**: Sep – Dec
-
-### Courses Offered
-- **Core Courses**
-  - 10.013 Modelling and Analysis
-  - 10.015 Physical World
-  - 10.014 Computational Thinking for Design
-  - 02.001 World Texts & Interpretations
-
-### Specialisation Tracks
-- Beyond Industry 4.0
-- Computer Engineering
-- Electrical Engineering
-- Healthcare Engineering Design
-- Mechanical Engineering
-- Robotics
-- Self-Directed Programme
-
-### Minors
-- DIVE Minor
-- Healthcare Informatics Minor
-
-### Academic Mentorship
-- EPD Academic Mentorship Programme
-- Academic Mentorship Exercise
-
-### Student Awards
-- **Student Academic Awards**
-- **Honours List**
-
-### Contact Information
-- **Phone**: +65 6303 6600
-- **Email**: [Email EPD](mailto:epd@sutd.edu.sg)
+For details about school terms, vacation periods, and more, visit the [Academic Calendar](https://www.sutd.edu.sg/epd/education/undergraduate/academic-calendar/overview/ay2024-onwards/).
 
 ### Frequently Asked Questions
 1. **I have received and accepted SUTD’s undergraduate admissions offer. Does my relevant diploma give me a higher chance of enrolling in EPD?**  
@@ -63,19 +57,22 @@ EPD Pillar equips you with the knowledge and skills to be a technically grounded
 3. **What type of students are you looking out for?**  
    The EPD curriculum emphasizes hands-on physical prototyping, making it ideal for students who are inclined towards collaborative, practical work and creating tangible products to be both a suitable and rewarding choice.
 
-### Useful Links
-- [Careers at SUTD](https://careers.sutd.edu.sg/)
-- [Take a virtual campus tour](https://virtualtour.sutd.edu.sg/)
-- [Directory](https://www.sutd.edu.sg/epd/contact-us/)
-- [Whistleblowing Policy](https://www.sutd.edu.sg/epd/about/whistleblowing-policy/)
-- [Terms & Conditions](https://www.sutd.edu.sg/epd/terms-and-conditions/)
-- [Privacy Statement](https://www.sutd.edu.sg/epd/privacy-statement/)
+### Contact Information
+- **Phone:** +65 6303 6600  
+- **Email:** [Contact SUTD](https://www.sutd.edu.sg/epd/contact-us/)  
+- **Address:** 8 Somapah Rd, Singapore 487372  
+
+### Additional Resources
+- [Change of Specialisation Tracks Form](https://www.sutd.edu.sg/epd/wp-content/uploads/sites/6/2025/01/EPD-Form-change-of-track-Aug2023.pdf)  
+- [Pursuing an Elective Outside a Track Form](https://www.sutd.edu.sg/epd/wp-content/uploads/sites/6/2025/01/EPD-Form-pursuing-an-elective-outside-a-track-Aug2022.pdf)  
+- [Study Plan Form](https://www.sutd.edu.sg/epd/wp-content/uploads/sites/6/2025/01/EPD-Form-study-plan-form-Jul2019.pdf)  
 
 ### Social Media
-- [Facebook](https://www.facebook.com/sutdsingapore)
-- [Instagram](https://www.instagram.com/sutdsg/)
-- [LinkedIn](https://www.linkedin.com/school/sutd)
-- [TikTok](https://www.tiktok.com/@sutd_sg)
+- [Facebook](https://www.facebook.com/sutdsingapore)  
+- [Instagram](https://www.instagram.com/sutdsg/)  
+- [LinkedIn](https://www.linkedin.com/school/sutd)  
+- [YouTube](http://www.youtube.com/user/SUTDSingapore)  
+- [TikTok](https://www.tiktok.com/@sutd_sg)  
 
 ### Copyright
 Copyright © 2011 – 2025

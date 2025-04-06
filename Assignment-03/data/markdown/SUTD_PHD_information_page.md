@@ -4,14 +4,14 @@ title: SUTD PHD information page
 description: "Information on the PHD programs offered at SUTD, including research areas and application procedures."
 ---
 
-# Graduate admissions - PhD
+# Graduate Admissions - PhD
 
 Delve deeper into the world of design, technology and entrepreneurship with the best of minds and the most innovative of spirits. Our graduate programmes don’t just equip you with another degree, they spur you towards achieving your fullest potential to thrive in the real-world.
 
 ## Application Information
 
 ### Important Dates
-- **Application closes:** 31 Mar 2025 (September 2025 intake)
+- **Application closes:** 13 Apr 2025 (September 2025 intake)
 
 ### Programme Mode & Candidature
 - **Full-time:** 36 – 48 months
@@ -30,13 +30,9 @@ Delve deeper into the world of design, technology and entrepreneurship with the 
    Collaborate with the best minds in a fluid and stimulating setting and conduct breakthrough research that will make a difference to the world.  
    [Apply now](https://admission.sutd.edu.sg/) | [Learn more](https://www.sutd.edu.sg/programme-listing/sutd-phd-programme/)
 
-## Housing Information
-### Graduate Housing
-We offer a wide range of on-campus accommodation for students, staff and visitors alike. Conveniently located on the SUTD campus, our housing blocks are just a stone’s throw away from the University’s many amenities.
-
 ## Contact Information
-- **Phone:** +65 6303 6600  
-- **Email:** [Contact Us](https://www.sutd.edu.sg/contact-us/get-in-touch/)
+- **Phone:** +65 6303 6600
+- **Email:** [Contact Us](https://contact-us/get-in-touch/)
 
 ## FAQs
 ### I forgot my SAP Ariba account password. Should I register for a new account?
@@ -50,8 +46,8 @@ You can register for a new account or log in to your existing account at [SAP Ar
 
 ### What should I do when I receive an invitation to register for SAP Ariba account?
 You will receive an email invitation from Ariba administrator.  
-For Suppliers with an existing ARIBA Account: Refer to [pages 10-11 of Supplier Onboarding Guide](https://wp-content/uploads/2024/11/SUTDSupplierOnboardingGuide.pdf#page=10).  
-For New Suppliers without an ARIBA Account: Refer to [pages 10 & 12-16 of Supplier Onboarding Guide](https://wp-content/uploads/2024/11/SUTDSupplierOnboardingGuide.pdf#page=10).
+- For Suppliers **with** an existing ARIBA Account: Refer to [pages 10-11 of Supplier Onboarding Guide](https://wp-content/uploads/2024/11/SUTDSupplierOnboardingGuide.pdf#page=10)  
+- For New Suppliers **without** an ARIBA Account: Refer to [pages 10 & 12-16 of Supplier Onboarding Guide](https://wp-content/uploads/2024/11/SUTDSupplierOnboardingGuide.pdf#page=10).
 
 ### How do I register for SAP Ariba if I’m a new user?
 Please refer to the [step-by-step instructions](https://about/partnering-with-sutd/suppliers/supplier-registration/) on how to register.

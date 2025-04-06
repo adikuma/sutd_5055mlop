@@ -39,13 +39,13 @@ Ideal for those who wish to lead transformational innovations within organisatio
 * Fundamentals of Investing
 
 ## Important Dates
-- **Application Deadline:** Check the [Academic Calendar](https://www.sutd.edu.sg/dai/education/undergraduate/academic-calendar/overview/ay2024-onwards/) for specific dates.
+- **Application Deadline:** Check the [Admissions page](https://www.sutd.edu.sg/dai/admissions) for specific dates.
 
 ## Contact Information
 - **Phone:** +65 6303 6600
-- **Email:** [Contact DAI](mailto:contact@dai.sutd.edu.sg)
+- **Email:** [Email DAI](mailto:info@sutd.edu.sg)
 - **Address:** 8 Somapah Rd, Singapore 487372
 
-## Additional Resources
+## Resources
 - [Academic Calendar](https://www.sutd.edu.sg/dai/education/undergraduate/academic-calendar/overview/ay2024-onwards/)
 - [SUTD Courses](https://www.sutd.edu.sg/dai/education/undergraduate/courses/)

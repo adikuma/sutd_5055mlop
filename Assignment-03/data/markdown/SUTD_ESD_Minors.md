@@ -51,7 +51,7 @@ The Minor in Analytics and AI will allow students to gain expertise in the curre
 - Subjects taken to complete a minor shall be graded and computed into the GPA. Unless a minimum passing grade is stated by the pillar, the minimum passing grade shall be a D. Non-letter grading options cannot be used for a minor. Grades earned towards the minor(s) shall still be computed into the GPA even if the student decides not to complete the minor programme(s).
 - Credits from successfully completed academic units from external institutions can be recognized towards fulfilling SUTD minor requirements upon approval from the pillar/cluster offering the minor.
 
-## Additional Minors
+## Related Minors
 - [Minor in Analytics](https://www.sutd.edu.sg/esd/education/undergraduate/minors/analytics/) (for Intake AY2022 only)
 - [Minor in Engineering Systems](https://www.sutd.edu.sg/esd/education/undergraduate/minors/engineering-systems/) (for Intake AY2021 and before)
 

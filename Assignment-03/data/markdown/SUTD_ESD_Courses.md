@@ -59,11 +59,6 @@ Your career progression depends on the industry, company, and activity. For exam
    - Credits: 12  
    - Prerequisite courses needed
 
-6. **40.017 Probability and Statistics**  
-   - Term(s): 4  
-   - Credits: 12  
-   - Prerequisite courses needed
-
 #### Elective Courses
 1. **01.102 Energy Systems and Management**  
    - Term(s): 6  
@@ -76,11 +71,16 @@ Your career progression depends on the industry, company, and activity. For exam
    - Elective / Technical Elective
 
 ### Important Dates
-- **Application Deadline:** Check the [Admissions page](https://sutd.go-vip.net/admissions) for details.
+- **Application Deadline**: Check the [Admissions page](https://sutd.go-vip.net/admissions) for specific dates.
 
 ### Contact Information
-- **Phone:** +65 6303 6600  
-- **Email:** [Contact SUTD](https://www.sutd.edu.sg/esd/contact-us/)  
-- **Address:** 8 Somapah Rd, Singapore 487372  
+- **Phone**: +65 6303 6600  
+- **Email**: [Contact SUTD](https://www.sutd.edu.sg/esd/contact-us/)  
+- **Address**: 8 Somapah Rd, Singapore 487372  
 
-For more information, visit the [SUTD website](https://www.sutd.edu.sg/esd/education/undergraduate/courses/).
+### Additional Resources
+- [Academic Calendar](https://www.sutd.edu.sg/esd/education/undergraduate/academic-calendar/overview/ay2024-onwards/)  
+- [Frequently Asked Questions](https://www.sutd.edu.sg/esd/education/undergraduate/faq/)  
+- [Explore SUTD Courses](https://www.sutd.edu.sg/esd/education/undergraduate/courses/)  
+
+For more information, visit the [Engineering Systems and Design (ESD) website](https://www.sutd.edu.sg/esd/).
