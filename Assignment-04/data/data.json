@@ -1,0 +1,192 @@
+[
+  {
+    "title": "SUTD About page",
+    "url": "https://www.sutd.edu.sg/about/",
+    "description": "Provides an overview of SUTD, its mission, and its unique educational approach."
+  },
+  {
+    "title": "SUTD Contact page",
+    "url": "https://www.sutd.edu.sg/contact-us/contact-sutd/",
+    "description": "Offers various methods to contact SUTD, including phone numbers, email addresses, and physical addresses."
+  },
+  {
+    "title": "SUTD Home page",
+    "url": "https://www.sutd.edu.sg/",
+    "description": "The main landing page for SUTD, providing access to all major sections and resources."
+  },
+  {
+    "title": "SUTD Application Guide page",
+    "url": "https://www.sutd.edu.sg/admissions/undergraduate/application-guide/",
+    "description": "Detailed guide on how to apply to SUTD's undergraduate programs, including requirements and deadlines."
+  },
+  {
+    "title": "SUTD Appeal Guide page",
+    "url": "https://www.sutd.edu.sg/admissions/undergraduate/appeal/",
+    "description": "Information on the process for appealing an admission decision to SUTD's undergraduate programs."
+  },
+  {
+    "title": "SUTD Admission Requirements page",
+    "url": "https://www.sutd.edu.sg/admissions/undergraduate/admission-requirements/overview",
+    "description": "Outlines the academic and other requirements for admission to SUTD's undergraduate programs."
+  },
+  {
+    "title": "SUTD Masters information page 1",
+    "url": "https://www.sutd.edu.sg/admissions/graduate/masters/?paged=1#general-listing",
+    "description": "Lists various Masters programs offered at SUTD, with links to application details. (Page 1)"
+  },
+  {
+    "title": "SUTD Masters information page 2",
+    "url": "https://www.sutd.edu.sg/admissions/graduate/masters/?paged=2#general-listing",
+    "description": "Lists various Masters programs offered at SUTD, with links to application details. (Page 2)"
+  },
+  {
+    "title": "SUTD PHD information page",
+    "url": "https://www.sutd.edu.sg/admissions/graduate/phd/",
+    "description": "Information on the PHD programs offered at SUTD, including research areas and application procedures."
+  },
+  {
+    "title": "SUTD Academic Calendar",
+    "url": "https://www.sutd.edu.sg/education/undergraduate/academic-calendar/overview/ay2024-onwards/",
+    "description": "Provides the academic calendar for SUTD, including term dates, holidays, and internship periods."
+  },
+  {
+    "title": "SUTD Undergraduate Modules",
+    "url": "https://www.sutd.edu.sg/education/undergraduate/",
+    "description": "Overview of the undergraduate curriculum at SUTD, including compulsory and elective courses."
+  },
+  {
+    "title": "SUTD undergrad Freshmore modules",
+    "url": "https://www.sutd.edu.sg/education/undergraduate/freshmore-subjects/",
+    "description": "Details the compulsory Freshmore modules that all undergraduate students must take in their first year."
+  },
+  {
+    "title": "SUTD undergrad Specialised tracks",
+    "url": "https://www.sutd.edu.sg/education/undergraduate/specialisation-tracks/",
+    "description": "General information about the specialized tracks available to undergraduate students in each pillar."
+  },
+  {
+    "title": "SUTD curriculum for ISTD",
+    "url": "https://www.sutd.edu.sg/istd/education/undergraduate/curriculum/#tabs",
+    "description": "Provides details on the curriculum for the Information Systems Technology and Design (ISTD) pillar."
+  },
+  {
+    "title": "SUTD ISTD courses",
+    "url": "https://www.sutd.edu.sg/istd/education/undergraduate/courses/#tabs",
+    "description": "Lists the courses available within the Information Systems Technology and Design (ISTD) pillar."
+  },
+  {
+    "title": "SUTD ISTD Minors",
+    "url": "https://www.sutd.edu.sg/istd/education/undergraduate/Minors/#tabs",
+    "description": "Information on the minor programs offered within the Information Systems Technology and Design (ISTD) pillar."
+  },
+  {
+    "title": "SUTD ISTD Specialised Tracks",
+    "url": "https://www.sutd.edu.sg/istd/education/undergraduate/specialisation-tracks/overview/#tabs",
+    "description": "Details the specialized tracks available to students in the Information Systems Technology and Design (ISTD) pillar."
+  },
+  {
+    "title": "SUTD ASD Curriculum",
+    "url": "https://www.sutd.edu.sg/ASD/education/undergraduate/curriculum/#tabs",
+    "description": "Provides details on the curriculum for the Architecture and Sustainable Design (ASD) pillar."
+  },
+  {
+    "title": "SUTD ASD Courses",
+    "url": "https://www.sutd.edu.sg/asd/education/undergraduate/courses/#tabs",
+    "description": "Lists the courses available within the Architecture and Sustainable Design (ASD) pillar."
+  },
+  {
+    "title": "SUTD DAI Curriculum",
+    "url": "https://www.sutd.edu.sg/DAI/education/undergraduate/curriculum/#tabs",
+    "description": "Provides details on the curriculum for the Design and Artificial Intelligence (DAI) pillar."
+  },
+  {
+    "title": "SUTD DAI Courses",
+    "url": "https://www.sutd.edu.sg/dai/education/undergraduate/courses/#tabs",
+    "description": "Lists the courses available within the Design and Artificial Intelligence (DAI) pillar."
+  },
+  {
+    "title": "SUTD DAI specialisation-tracks",
+    "url": "https://www.sutd.edu.sg/dai/education/undergraduate/specialisation-tracks/#tabs",
+    "description": "Information on the specialization tracks offered within the Design and Artificial Intelligence (DAI) pillar."
+  },
+  {
+    "title": "SUTD EPD Curriculum",
+    "url": "https://www.sutd.edu.sg/EPD/education/undergraduate/curriculum/#tabs",
+    "description": "Provides details on the curriculum for the Engineering Product Development (EPD) pillar."
+  },
+  {
+    "title": "SUTD EPD Courses",
+    "url": "https://www.sutd.edu.sg/epd/education/undergraduate/courses/#tabs",
+    "description": "Lists the courses available within the Engineering Product Development (EPD) pillar."
+  },
+  {
+    "title": "SUTD EPD Minors",
+    "url": "https://www.sutd.edu.sg/epd/education/undergraduate/minor-programmes/affiliated-minors#tabs",
+    "description": "Information on the minor programs offered within the Engineering Product Development (EPD) pillar."
+  },
+  {
+    "title": "SUTD EPD specialised tracks",
+    "url": "https://www.sutd.edu.sg/epd/education/undergraduate/specialisation-tracks/beyond-industry-4-0/#tabs",
+    "description": "Details the specialized tracks available to students in the Engineering Product Development (EPD) pillar."
+  },
+  {
+    "title": "SUTD ESD Curriculum",
+    "url": "https://www.sutd.edu.sg/esd/education/undergraduate/curriculum/beyond-ay-2019/",
+    "description": "Provides details on the curriculum for the Engineering Systems and Design (ESD) pillar."
+  },
+  {
+    "title": "SUTD ESD Courses",
+    "url": "https://www.sutd.edu.sg/esd/education/undergraduate/courses/#tabs",
+    "description": "Lists the courses available within the Engineering Systems and Design (ESD) pillar."
+  },
+  {
+    "title": "SUTD ESD Minors",
+    "url": "https://www.sutd.edu.sg/esd/education/undergraduate/minors/analytics-and-ai/#tabs",
+    "description": "Information on the minor programs offered within the Engineering Systems and Design (ESD) pillar."
+  },
+  {
+    "title": "SUTD ESD specialised tracks",
+    "url": "https://www.sutd.edu.sg/esd/education/undergraduate/specialisation-tracks/overview/#tabs",
+    "description": "Details the specialized tracks available to students in the Engineering Systems and Design (ESD) pillar."
+  },
+  {
+    "title": "SUTD Interview Experience",
+    "url": "https://www.reddit.com/r/sutd/comments/1jr2s7f/sutd_interview_experience/",
+    "description": "A Reddit post discussing an interview experience at SUTD."
+  },
+  {
+    "title": "Application Outcome for International Students",
+    "url": "https://www.reddit.com/r/sutd/comments/1jqd2ts/application_outcome_for_international_students/",
+    "description": "A Reddit post detailing international students' application outcomes for SUTD."
+  },
+  {
+    "title": "What's the Hall Life Like?",
+    "url": "https://www.reddit.com/r/sutd/comments/1jlz8zp/whats_the_hall_life_like/",
+    "description": "A Reddit post discussing the hall life experience at SUTD."
+  },
+  {
+    "title": "What Are SUTD Looking For in Students?",
+    "url": "https://www.reddit.com/r/sutd/comments/1jlwsdh/what_are_sutd_looking_for_in_students/",
+    "description": "A Reddit post on what qualities SUTD looks for in students."
+  },
+  {
+    "title": "How Is the Food at SUTD?",
+    "url": "https://www.reddit.com/r/sutd/comments/1jen1ke/how_is_the_food_at_sutd/",
+    "description": "A Reddit post discussing the food quality and options at SUTD."
+  },
+  {
+    "title": "Application Deadline Missed",
+    "url": "https://www.reddit.com/r/sutd/comments/1je474v/application_deadline_missed/",
+    "description": "A Reddit post about experiences related to missing the application deadline at SUTD."
+  },
+  {
+    "title": "Failed Midterms, Worried About GPA",
+    "url": "https://www.reddit.com/r/sutd/comments/1jcmuik/failed_midterms_worried_about_gpa/",
+    "description": "A Reddit post discussing concerns about GPA after failing midterms at SUTD."
+  },
+  {
+    "title": "SUTD Referral",
+    "url": "https://www.reddit.com/r/sutd/comments/1jd34bp/sutd_referral/",
+    "description": "A Reddit post regarding referral practices at SUTD."
+  }
+]

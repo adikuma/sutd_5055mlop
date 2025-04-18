@@ -1,0 +1,188 @@
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs used = 1
+   \\   /|    Num examples = 160 | Num Epochs = 5 | Total steps = 100
+O^O/ \_/ \    Batch size per device = 2 | Gradient accumulation steps = 4
+\        /    Data Parallel GPUs = 1 | Total batch size (2 x 4 x 1) = 8
+ "-____-"     Trainable parameters = 11,272,192/1,000,000,000 (1.13% trained)
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs used = 1
+   \\   /|    Num examples = 160 | Num Epochs = 5 | Total steps = 100
+O^O/ \_/ \    Batch size per device = 2 | Gradient accumulation steps = 4
+\        /    Data Parallel GPUs = 1 | Total batch size (2 x 4 x 1) = 8
+ "-____-"     Trainable parameters = 11,272,192/1,000,000,000 (1.13% trained)
+Device set to use cuda:0
+<ipython-input-30-17aaf185608f>:17: LangChainDeprecationWarning: The class `HuggingFacePipeline` was deprecated in LangChain 0.0.37 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFacePipeline``.
+  llm_base = HuggingFacePipeline(pipeline=pipe_base)
+Device set to use cuda:0
+Question: What is special about SUTD?
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+The model 'PeftModelForCausalLM' is not supported for text-generation. Supported models are ['AriaTextForCausalLM', 'BambaForCausalLM', 'BartForCausalLM', 'BertLMHeadModel', 'BertGenerationDecoder', 'BigBirdForCausalLM', 'BigBirdPegasusForCausalLM', 'BioGptForCausalLM', 'BlenderbotForCausalLM', 'BlenderbotSmallForCausalLM', 'BloomForCausalLM', 'CamembertForCausalLM', 'LlamaForCausalLM', 'CodeGenForCausalLM', 'CohereForCausalLM', 'Cohere2ForCausalLM', 'CpmAntForCausalLM', 'CTRLLMHeadModel', 'Data2VecTextForCausalLM', 'DbrxForCausalLM', 'DeepseekV3ForCausalLM', 'DiffLlamaForCausalLM', 'ElectraForCausalLM', 'Emu3ForCausalLM', 'ErnieForCausalLM', 'FalconForCausalLM', 'FalconMambaForCausalLM', 'FuyuForCausalLM', 'GemmaForCausalLM', 'Gemma2ForCausalLM', 'Gemma3ForConditionalGeneration', 'Gemma3ForCausalLM', 'GitForCausalLM', 'GlmForCausalLM', 'GotOcr2ForConditionalGeneration', 'GPT2LMHeadModel', 'GPT2LMHeadModel', 'GPTBigCodeForCausalLM', 'GPTNeoForCausalLM', 'GPTNeoXForCausalLM', 'GPTNeoXJapaneseForCausalLM', 'GPTJForCausalLM', 'GraniteForCausalLM', 'GraniteMoeForCausalLM', 'GraniteMoeSharedForCausalLM', 'HeliumForCausalLM', 'JambaForCausalLM', 'JetMoeForCausalLM', 'LlamaForCausalLM', 'Llama4ForCausalLM', 'Llama4ForCausalLM', 'MambaForCausalLM', 'Mamba2ForCausalLM', 'MarianForCausalLM', 'MBartForCausalLM', 'MegaForCausalLM', 'MegatronBertForCausalLM', 'MistralForCausalLM', 'MixtralForCausalLM', 'MllamaForCausalLM', 'MoshiForCausalLM', 'MptForCausalLM', 'MusicgenForCausalLM', 'MusicgenMelodyForCausalLM', 'MvpForCausalLM', 'NemotronForCausalLM', 'OlmoForCausalLM', 'Olmo2ForCausalLM', 'OlmoeForCausalLM', 'OpenLlamaForCausalLM', 'OpenAIGPTLMHeadModel', 'OPTForCausalLM', 'PegasusForCausalLM', 'PersimmonForCausalLM', 'PhiForCausalLM', 'Phi3ForCausalLM', 'Phi4MultimodalForCausalLM', 'PhimoeForCausalLM', 'PLBartForCausalLM', 'ProphetNetForCausalLM', 'QDQBertLMHeadModel', 'Qwen2ForCausalLM', 'Qwen2MoeForCausalLM', 'Qwen3ForCausalLM', 'Qwen3MoeForCausalLM', 'RecurrentGemmaForCausalLM', 'ReformerModelWithLMHead', 'RemBertForCausalLM', 'RobertaForCausalLM', 'RobertaPreLayerNormForCausalLM', 'RoCBertForCausalLM', 'RoFormerForCausalLM', 'RwkvForCausalLM', 'Speech2Text2ForCausalLM', 'StableLmForCausalLM', 'Starcoder2ForCausalLM', 'TransfoXLLMHeadModel', 'TrOCRForCausalLM', 'WhisperForCausalLM', 'XGLMForCausalLM', 'XLMWithLMHeadModel', 'XLMProphetNetForCausalLM', 'XLMRobertaForCausalLM', 'XLMRobertaXLForCausalLM', 'XLNetLMHeadModel', 'XmodForCausalLM', 'ZambaForCausalLM', 'Zamba2ForCausalLM'].
+Question: What is special about SUTD?
+Answer base: What is special about SUTD? What makes it different from other universities?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+SUTD is the only university in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+---------
+Answer finetune: What is special about SUTD? Why is it ranked so highly?
+What are some of the most popular majors at SUTD?
+What are some student clubs and organizations at SUTD? Are they popular?
+Are there many exchange programs with other universities? How does SUTD compare to other schools in terms of exchange programs?
+What is the student-to-faculty ratio like at SUTD? Is it competitive?
+Does SUTD offer research opportunities? What kinds of projects are popular with students?
+How does SUTD's career services compare to other schools? Are they good at helping students land jobs after graduation?
+What is the average starting salary for graduates from SUTD's programs? Is it competitive with other schools?
+Are there opportunities to work abroad through SUTD's exchange programs? What are the chances of getting a job in your field after an exchange?
+What kind of resources does SUTD offer for students? Are they good at helping you find internships or jobs after graduation?
+How does SUTD's alumni network compare to other schools? Are they good at helping you find jobs or internships after graduation?
+Are there many alumni networking events at SUTD? How active are alumni in the career services department?
+What are the chances of getting a job or internship with the skills you learn at SUTD? Are they good at helping you find jobs or internships after graduation?
+What are some tips for applying to SUTD? What's the deadline for the best chances of getting in?
+What are some scholarships or financial aid opportunities at SUTD? How competitive are they?
+What are some resources for learning more about SUTD's reputation and rankings? Are they reliable?
+Are there any specific majors or degrees that are highly ranked by employers or have good job prospects? What are those?
+What are some popular research projects or internships at SUTD? What kind of experience do they offer?
+How competitive is it to get into SUTD? What are the chances of getting in based on your GPA, test scores, and other factors?
+What are some tips for networking with alumni at SUTD? How active are alumni in the career services department?
+What are the chances of getting a job or internship with the skills you learn at SUTD? Are they good at helping you find jobs or internships after graduation?
+What are some tips for applying to SUTD? What's the deadline for the best chances of getting in?
+What are some scholarships or financial aid opportunities at SUTD? How competitive are they
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+The model 'PeftModelForCausalLM' is not supported for text-generation. Supported models are ['AriaTextForCausalLM', 'BambaForCausalLM', 'BartForCausalLM', 'BertLMHeadModel', 'BertGenerationDecoder', 'BigBirdForCausalLM', 'BigBirdPegasusForCausalLM', 'BioGptForCausalLM', 'BlenderbotForCausalLM', 'BlenderbotSmallForCausalLM', 'BloomForCausalLM', 'CamembertForCausalLM', 'LlamaForCausalLM', 'CodeGenForCausalLM', 'CohereForCausalLM', 'Cohere2ForCausalLM', 'CpmAntForCausalLM', 'CTRLLMHeadModel', 'Data2VecTextForCausalLM', 'DbrxForCausalLM', 'DeepseekV3ForCausalLM', 'DiffLlamaForCausalLM', 'ElectraForCausalLM', 'Emu3ForCausalLM', 'ErnieForCausalLM', 'FalconForCausalLM', 'FalconMambaForCausalLM', 'FuyuForCausalLM', 'GemmaForCausalLM', 'Gemma2ForCausalLM', 'Gemma3ForConditionalGeneration', 'Gemma3ForCausalLM', 'GitForCausalLM', 'GlmForCausalLM', 'GotOcr2ForConditionalGeneration', 'GPT2LMHeadModel', 'GPT2LMHeadModel', 'GPTBigCodeForCausalLM', 'GPTNeoForCausalLM', 'GPTNeoXForCausalLM', 'GPTNeoXJapaneseForCausalLM', 'GPTJForCausalLM', 'GraniteForCausalLM', 'GraniteMoeForCausalLM', 'GraniteMoeSharedForCausalLM', 'HeliumForCausalLM', 'JambaForCausalLM', 'JetMoeForCausalLM', 'LlamaForCausalLM', 'Llama4ForCausalLM', 'Llama4ForCausalLM', 'MambaForCausalLM', 'Mamba2ForCausalLM', 'MarianForCausalLM', 'MBartForCausalLM', 'MegaForCausalLM', 'MegatronBertForCausalLM', 'MistralForCausalLM', 'MixtralForCausalLM', 'MllamaForCausalLM', 'MoshiForCausalLM', 'MptForCausalLM', 'MusicgenForCausalLM', 'MusicgenMelodyForCausalLM', 'MvpForCausalLM', 'NemotronForCausalLM', 'OlmoForCausalLM', 'Olmo2ForCausalLM', 'OlmoeForCausalLM', 'OpenLlamaForCausalLM', 'OpenAIGPTLMHeadModel', 'OPTForCausalLM', 'PegasusForCausalLM', 'PersimmonForCausalLM', 'PhiForCausalLM', 'Phi3ForCausalLM', 'Phi4MultimodalForCausalLM', 'PhimoeForCausalLM', 'PLBartForCausalLM', 'ProphetNetForCausalLM', 'QDQBertLMHeadModel', 'Qwen2ForCausalLM', 'Qwen2MoeForCausalLM', 'Qwen3ForCausalLM', 'Qwen3MoeForCausalLM', 'RecurrentGemmaForCausalLM', 'ReformerModelWithLMHead', 'RemBertForCausalLM', 'RobertaForCausalLM', 'RobertaPreLayerNormForCausalLM', 'RoCBertForCausalLM', 'RoFormerForCausalLM', 'RwkvForCausalLM', 'Speech2Text2ForCausalLM', 'StableLmForCausalLM', 'Starcoder2ForCausalLM', 'TransfoXLLMHeadModel', 'TrOCRForCausalLM', 'WhisperForCausalLM', 'XGLMForCausalLM', 'XLMWithLMHeadModel', 'XLMProphetNetForCausalLM', 'XLMRobertaForCausalLM', 'XLMRobertaXLForCausalLM', 'XLNetLMHeadModel', 'XmodForCausalLM', 'ZambaForCausalLM', 'Zamba2ForCausalLM'].
+before standardize: ['conversations']
+after standardize: ['conversations']
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+==((====))==  Unsloth - 2x faster free finetuning | Num GPUs used = 1
+   \\   /|    Num examples = 160 | Num Epochs = 5 | Total steps = 100
+O^O/ \_/ \    Batch size per device = 2 | Gradient accumulation steps = 4
+\        /    Data Parallel GPUs = 1 | Total batch size (2 x 4 x 1) = 8
+ "-____-"     Trainable parameters = 11,272,192/1,000,000,000 (1.13% trained)
+No files have been modified since last commit. Skipping to prevent empty commit.
+WARNING:huggingface_hub.hf_api:No files have been modified since last commit. Skipping to prevent empty commit.
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+The model 'PeftModelForCausalLM' is not supported for text-generation. Supported models are ['AriaTextForCausalLM', 'BambaForCausalLM', 'BartForCausalLM', 'BertLMHeadModel', 'BertGenerationDecoder', 'BigBirdForCausalLM', 'BigBirdPegasusForCausalLM', 'BioGptForCausalLM', 'BlenderbotForCausalLM', 'BlenderbotSmallForCausalLM', 'BloomForCausalLM', 'CamembertForCausalLM', 'LlamaForCausalLM', 'CodeGenForCausalLM', 'CohereForCausalLM', 'Cohere2ForCausalLM', 'CpmAntForCausalLM', 'CTRLLMHeadModel', 'Data2VecTextForCausalLM', 'DbrxForCausalLM', 'DeepseekV3ForCausalLM', 'DiffLlamaForCausalLM', 'ElectraForCausalLM', 'Emu3ForCausalLM', 'ErnieForCausalLM', 'FalconForCausalLM', 'FalconMambaForCausalLM', 'FuyuForCausalLM', 'GemmaForCausalLM', 'Gemma2ForCausalLM', 'Gemma3ForConditionalGeneration', 'Gemma3ForCausalLM', 'GitForCausalLM', 'GlmForCausalLM', 'GotOcr2ForConditionalGeneration', 'GPT2LMHeadModel', 'GPT2LMHeadModel', 'GPTBigCodeForCausalLM', 'GPTNeoForCausalLM', 'GPTNeoXForCausalLM', 'GPTNeoXJapaneseForCausalLM', 'GPTJForCausalLM', 'GraniteForCausalLM', 'GraniteMoeForCausalLM', 'GraniteMoeSharedForCausalLM', 'HeliumForCausalLM', 'JambaForCausalLM', 'JetMoeForCausalLM', 'LlamaForCausalLM', 'Llama4ForCausalLM', 'Llama4ForCausalLM', 'MambaForCausalLM', 'Mamba2ForCausalLM', 'MarianForCausalLM', 'MBartForCausalLM', 'MegaForCausalLM', 'MegatronBertForCausalLM', 'MistralForCausalLM', 'MixtralForCausalLM', 'MllamaForCausalLM', 'MoshiForCausalLM', 'MptForCausalLM', 'MusicgenForCausalLM', 'MusicgenMelodyForCausalLM', 'MvpForCausalLM', 'NemotronForCausalLM', 'OlmoForCausalLM', 'Olmo2ForCausalLM', 'OlmoeForCausalLM', 'OpenLlamaForCausalLM', 'OpenAIGPTLMHeadModel', 'OPTForCausalLM', 'PegasusForCausalLM', 'PersimmonForCausalLM', 'PhiForCausalLM', 'Phi3ForCausalLM', 'Phi4MultimodalForCausalLM', 'PhimoeForCausalLM', 'PLBartForCausalLM', 'ProphetNetForCausalLM', 'QDQBertLMHeadModel', 'Qwen2ForCausalLM', 'Qwen2MoeForCausalLM', 'Qwen3ForCausalLM', 'Qwen3MoeForCausalLM', 'RecurrentGemmaForCausalLM', 'ReformerModelWithLMHead', 'RemBertForCausalLM', 'RobertaForCausalLM', 'RobertaPreLayerNormForCausalLM', 'RoCBertForCausalLM', 'RoFormerForCausalLM', 'RwkvForCausalLM', 'Speech2Text2ForCausalLM', 'StableLmForCausalLM', 'Starcoder2ForCausalLM', 'TransfoXLLMHeadModel', 'TrOCRForCausalLM', 'WhisperForCausalLM', 'XGLMForCausalLM', 'XLMWithLMHeadModel', 'XLMProphetNetForCausalLM', 'XLMRobertaForCausalLM', 'XLMRobertaXLForCausalLM', 'XLNetLMHeadModel', 'XmodForCausalLM', 'ZambaForCausalLM', 'Zamba2ForCausalLM'].
+Question: What is special about SUTD?
+Answer base: What is special about SUTD? What makes it different from other universities?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+SUTD is the only university in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+What is special about SUTD?
+SUTD is a university in Singapore, and it is one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management. It is also one of the few universities in the world that offers a Master of Engineering in Engineering Management.
+---------
+Answer finetune: What is special about SUTD? Why is it ranked so highly?
+What are some of the most popular majors at SUTD?
+What are some student clubs and organizations at SUTD? Are they popular?
+Are there many exchange programs with other universities? How does SUTD compare to other schools in terms of exchange programs?
+What is the student-to-faculty ratio like at SUTD? Is it competitive?
+Does SUTD offer research opportunities? What kinds of projects are popular with students?
+How does SUTD's career services compare to other schools? Are they good at helping students land jobs after graduation?
+What is the average starting salary for graduates from SUTD's programs? Is it competitive with other schools?
+Are there opportunities to work abroad through SUTD's exchange programs? What are the chances of getting a job in your field after an exchange?
+What kind of resources does SUTD offer for students? Are they good at helping you find internships or jobs after graduation?
+How does SUTD's alumni network compare to other schools? Are they good at helping you find jobs or internships after graduation?
+Are there many alumni networking events at SUTD? How active are alumni in the career services department?
+What are the chances of getting a job or internship with the skills you learn at SUTD? Are they good at helping you find jobs or internships after graduation?
+What are some tips for applying to SUTD? What's the deadline for the best chances of getting in?
+What are some scholarships or financial aid opportunities at SUTD? How competitive are they?
+What are some resources for learning more about SUTD's reputation and rankings? Are they reliable?
+Are there any specific majors or degrees that are highly ranked by employers or have good job prospects? What are those?
+What are some popular research projects or internships at SUTD? What kind of experience do they offer?
+How competitive is it to get into SUTD? What are the chances of getting in based on your GPA, test scores, and other factors?
+What are some tips for networking with alumni at SUTD? How active are alumni in the career services department?
+What are the chances of getting a job or internship with the skills you learn at SUTD? Are they good at helping you find jobs or internships after graduation?
+What are some tips for applying to SUTD? What's the deadline for the best chances of getting in?
+What are some scholarships or financial aid opportunities at SUTD? How competitive are they
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+==((====))==  Unsloth 2025.3.19: Fast Llama patching. Transformers: 4.51.1.
+   \\   /|    NVIDIA L4. Num GPUs = 1. Max memory: 22.161 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu118. CUDA: 8.9. CUDA Toolkit: 11.8. Triton: 3.2.0
+\        /    Bfloat16 = TRUE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Device set to use cuda:0
+The model 'PeftModelForCausalLM' is not supported for text-generation. Supported models are ['AriaTextForCausalLM', 'BambaForCausalLM', 'BartForCausalLM', 'BertLMHeadModel', 'BertGenerationDecoder', 'BigBirdForCausalLM', 'BigBirdPegasusForCausalLM', 'BioGptForCausalLM', 'BlenderbotForCausalLM', 'BlenderbotSmallForCausalLM', 'BloomForCausalLM', 'CamembertForCausalLM', 'LlamaForCausalLM', 'CodeGenForCausalLM', 'CohereForCausalLM', 'Cohere2ForCausalLM', 'CpmAntForCausalLM', 'CTRLLMHeadModel', 'Data2VecTextForCausalLM', 'DbrxForCausalLM', 'DeepseekV3ForCausalLM', 'DiffLlamaForCausalLM', 'ElectraForCausalLM', 'Emu3ForCausalLM', 'ErnieForCausalLM', 'FalconForCausalLM', 'FalconMambaForCausalLM', 'FuyuForCausalLM', 'GemmaForCausalLM', 'Gemma2ForCausalLM', 'Gemma3ForConditionalGeneration', 'Gemma3ForCausalLM', 'GitForCausalLM', 'GlmForCausalLM', 'GotOcr2ForConditionalGeneration', 'GPT2LMHeadModel', 'GPT2LMHeadModel', 'GPTBigCodeForCausalLM', 'GPTNeoForCausalLM', 'GPTNeoXForCausalLM', 'GPTNeoXJapaneseForCausalLM', 'GPTJForCausalLM', 'GraniteForCausalLM', 'GraniteMoeForCausalLM', 'GraniteMoeSharedForCausalLM', 'HeliumForCausalLM', 'JambaForCausalLM', 'JetMoeForCausalLM', 'LlamaForCausalLM', 'Llama4ForCausalLM', 'Llama4ForCausalLM', 'MambaForCausalLM', 'Mamba2ForCausalLM', 'MarianForCausalLM', 'MBartForCausalLM', 'MegaForCausalLM', 'MegatronBertForCausalLM', 'MistralForCausalLM', 'MixtralForCausalLM', 'MllamaForCausalLM', 'MoshiForCausalLM', 'MptForCausalLM', 'MusicgenForCausalLM', 'MusicgenMelodyForCausalLM', 'MvpForCausalLM', 'NemotronForCausalLM', 'OlmoForCausalLM', 'Olmo2ForCausalLM', 'OlmoeForCausalLM', 'OpenLlamaForCausalLM', 'OpenAIGPTLMHeadModel', 'OPTForCausalLM', 'PegasusForCausalLM', 'PersimmonForCausalLM', 'PhiForCausalLM', 'Phi3ForCausalLM', 'Phi4MultimodalForCausalLM', 'PhimoeForCausalLM', 'PLBartForCausalLM', 'ProphetNetForCausalLM', 'QDQBertLMHeadModel', 'Qwen2ForCausalLM', 'Qwen2MoeForCausalLM', 'Qwen3ForCausalLM', 'Qwen3MoeForCausalLM', 'RecurrentGemmaForCausalLM', 'ReformerModelWithLMHead', 'RemBertForCausalLM', 'RobertaForCausalLM', 'RobertaPreLayerNormForCausalLM', 'RoCBertForCausalLM', 'RoFormerForCausalLM', 'RwkvForCausalLM', 'Speech2Text2ForCausalLM', 'StableLmForCausalLM', 'Starcoder2ForCausalLM', 'TransfoXLLMHeadModel', 'TrOCRForCausalLM', 'WhisperForCausalLM', 'XGLMForCausalLM', 'XLMWithLMHeadModel', 'XLMProphetNetForCausalLM', 'XLMRobertaForCausalLM', 'XLMRobertaXLForCausalLM', 'XLNetLMHeadModel', 'XmodForCausalLM', 'ZambaForCausalLM', 'Zamba2ForCausalLM'].
+<ipython-input-43-29be133cbf76>:47: LangChainDeprecationWarning: The class `LLMChain` was deprecated in LangChain 0.1.17 and will be removed in 1.0. Use :meth:`~RunnableSequence, e.g., `prompt | llm`` instead.
+  llm_base = LLMChain(llm=hf_base, prompt=prompt)
+Question: What is special about SUTD?
+Answer base: {'question': 'What is special about SUTD?', 'text': 'Question: What is special about SUTD?\nAnswer: SUTD is a rare T-cell lymphoma with a unique clinical presentation. This lymphoma is characterized by an aggressive clinical course, with a high incidence of CNS involvement and a low response rate to standard chemotherapy.\nThe most common symptoms of SUTD are fever and night sweats, followed by headache, fever, and back pain. A few patients may present with fever and night sweats, followed by back pain. A few patients may present with fever, night sweats, and back pain. A few patients may present with fever, night sweats, and back pain.\nThe most common symptoms of SUTD are fever and night sweats, followed by headache, fever, and back pain. A few patients may present with fever and night sweats, followed by back pain. A few patients may present with fever, night sweats, and back pain. A few patients may present with fever, night sweats, and back pain.\nThe most common symptoms of SUTD are fever and night sweats, followed by headache, fever, and back pain. A few patients may present with fever and night sweats, followed by back pain. A few patients may present with fever, night sweats, and back pain. A few patients may present with fever, night sweats, and back pain.'}
+---------
+Answer finetune: {'question': 'What is special about SUTD?', 'text': 'Question: What is special about SUTD?\nAnswer: SUTD is a top-ranked engineering school, ranked 5th worldwide for engineering programs. It also has strong research programs and offers unique interdisciplinary courses. Plus, the Singapore climate is perfect for engineering!'}
