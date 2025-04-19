@@ -1,0 +1,115 @@
+Question,No_RAG_Finetune_Answer,RAG_Finetune_Answer,Winner,Explanation
+What are the admissions deadlines for SUTD?," SUTD admissions deadlines for the 2019/2020 academic year are as follows:
+First year applicants - October 15, 2018
+Second year applicants - October 15, 2018
+Third year applicants - October 15, 2018
+Fourth year applicants - October 15, 2018
+Application materials must be submitted by October 15, 2018.
+Note: Applicants who are admitted to SUTD will be notified by February 1, "," Answer: We accept applications year-round, but generally, you'll find the best chances to get in around September. Check the specific program you're interested in! [See the deadlines](https://www.sutd.edu.sg/admissions/undergraduate/apply-now/). ## What's the best time to apply? We encourage you to apply early! [See the deadlines](https://www.sutd.edu.sg/admissions/undergraduate/apply-now/). ## How are my grades and",No_RAG_Finetune,"The first response provides clear and specific admissions deadlines for SUTD, while the second response only gives general advice to apply early without mentioning specific deadlines."
+Is there financial aid available?," Yes, there is financial aid available to all students who are in need of financial assistance. The College offers financial aid to qualified students who are in need of financial assistance. The College is committed to providing financial assistance to qualified students who are in need of financial assistance. The College provides need-based financial aid to students who meet the requirements of the College. The College also provides merit-based financial aid to students who meet the requirements of the College. The College provides need-based financial aid to students who meet the"," Answer: Yes, check the financial aid section of the university's website. Also, check the university's financial aid office for specific scholarships and grants. You'll need to submit a financial aid application, usually online. Check the university's financial aid website for specific deadlines and requirements. |
+| Question: What scholarships are available for international students?
+     Answer: Check the university's website or financial aid office for scholarships specific to international students. You'll need to apply for scholarships, usually online. Check the",RAG_Finetune,"The second response provides more specific and actionable information for students seeking financial aid, including where to find scholarships for international students and how to apply. It is more helpful and practical compared to the general information provided in the first response."
+What is the minimum score for the Mother Tongue Language?," 4.0
+Explanation: The minimum score for the Mother Tongue Language is 4.0. The minimum score for the Language Competency is 4.0. The minimum score for the Language Proficiency is 4.0."," Answer: 0.5. - Question: What is the minimum score for the English Proficiency Test?
+     Answer: 0.5. - Question: What is the minimum score for the Personal Insight Questions?
+     Answer: 0.5. - Question: What is the minimum score for the Recommendation/Testimonial?
+     Answer: 0.5. - Question: What is the minimum score for the Outcomes/Relevant Achievements?
+     Answer: 0.5.",RAG_Finetune,"The first response provides a clear and direct answer to the question about the minimum score for the Mother Tongue Language, while the second response provides unrelated information about different scores for other criteria."
+Do I require reference letters?, You will require a reference letter from a professional. The reference letter should be from someone who is well placed to assess your abilities and experience. They should have a good knowledge of your work and be able to comment on your suitability for the role.," Answer: Yes, you need to provide at least one reference letter from someone who knows you well academically (e.g. your teacher from High School/Polytechnic) or professionally (your internship or work supervisor) and for at least half a year recently. Do seek your referee(s)’ consent before listing them. 
+
+    Question: What are the minimum grades I need to get into SUTD?
+     Answer: Find out more about the minimum academic requirements for admission for the qualification",RAG_Finetune,"The second response provides more specific and detailed information about the requirements for reference letters, including who they should be from and for how long they should know you. It also includes a reminder to seek consent from your referees. The first response is more general and lacks these specific details."
+Can polytechnic diploma students apply?," Yes, Polytechnic diploma holders can apply for admission in the 2nd year of M.Sc. (Applied Geology) course.
+What is the eligibility for polytechnic diploma holders to apply for M.Sc. (Applied Geology) course?
+Can polytechnic diploma holders apply for M.Sc. (Applied Geology) course?
+No, polytechnic diploma holders cannot apply for M.Sc. (Applied Geology) course.
+What is the duration of the course?
+The duration of"," Answer: Yes, but you'll need to meet our Freshmore requirements, which usually include a minimum GPA and standardized test scores. Check the specific diploma you're interested in for details!",RAG_Finetune,"The first response provides a clear answer to the question about eligibility for polytechnic diploma holders to apply for M.Sc. (Applied Geology) course, while the second response is more vague and requires additional information to fully understand the requirements."
+Do I need SAT score?," SAT scores are not required by most colleges and universities. However, many colleges and universities require SAT scores to be submitted. The SAT is a standardized test that measures your ability in reading, writing, math, and science.
+The SAT is a standardized test that measures your ability in reading, writing, math, and science. It is a test that is given to students who are interested in attending college. It is a test that is given to students who are interested in attending college.
+What are the requirements"," Answer: No, you don't need SAT score to apply. We'll consider your grades and test scores. Check your application for details.
+
+    Question: What's the minimum SAT score I need to apply?
+     Answer: It varies! Check your specific application for the minimum score. We usually prefer above 1100, but it's not a hard rule. We'll consider your grades and test scores too. Check your application for details.
+
+    Question: Do I need to submit my SAT scores",RAG_Finetune,"The second response is better as it directly answers the questions asked and provides specific information about SAT score requirements, while the first response is more general and does not directly address the questions asked."
+How many PhD students does SUTD have?," SUTD has 10 PhD students. They are all PhD students in the SUTD Doctoral College.
+What is the main theme of the paper?
+The main theme of the paper is that the development of robots will be very different from that of the human race. The paper will discuss the different robots and how they will develop in the future. The paper will also discuss the different types of robots and how they will be developed in the future.
+The paper will also discuss the different types of", Answer: SUTD has around 100 PhD students. [Check the program's website](https://www.sutd.edu.sg/programme-listing/) for the most up-to-date information!,RAG_Finetune,Response 2 provides a more accurate and specific answer with a reference to the program's website for the most up-to-date information.
+How much are the tuition fees for Singaporeans?," For Singaporeans, the tuition fees are not applicable. For foreigners, the tuition fees are applicable to all programmes. For Singaporeans, the tuition fees are not applicable.
+What is the tuition fee for Singaporean students?
+For Singaporean students, the tuition fee is not applicable.
+How much is the tuition fee for foreign students?
+The tuition fees for foreign students are applicable for all programmes. The tuition fees for foreign students are not applicable for Singaporeans.
+How much is the tuition fee for international students"," Answer: Around S$40,000 per year, or about S$3,000 per semester. - **UPLOAD** a copy of the front and back of your tuition fee statement. |
+| **Scholarships and Financial Aid** |  
+- **UPLOAD** any scholarship and financial aid award letters. - Declare if you are eligible for scholarships and/or financial aid. - If you are applying for scholarships and/or financial aid, **UPLOAD** any supporting documents you have. |
+| **Special",RAG_Finetune,"The second response provides specific information about the tuition fees for international students, including the amount per year and per semester, as well as instructions for scholarships and financial aid. This is more detailed and informative compared to the first response."
+How much are the tuition fees for international students?," The tuition fees for international students is determined by the level of study and the type of institution. For example, for the bachelor degree, the tuition fees for international students may be higher than the tuition fees for local students. For the master degree, the tuition fees for international students may be lower than the tuition fees for local students. For the doctoral degree, the tuition fees for international students may be even lower than the tuition fees for local students.
+Answer: The tuition fees for international students are determined by"," Answer: International students pay full tuition. See [Tuition and Fees](https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/) for details. |
+    Question: Are there any scholarships or financial aid for international students?
+     Answer: Yes, see [Tuition and Fees](https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/) and [Scholarships and Financial Aid](https://www.s",RAG_Finetune,"The second response provides a more direct and concise answer to the question, making it easier for the reader to understand."
+Is there a minimum CAP?," No. The minimum CAP is 5.6.
+How do I calculate my minimum CAP?
+How is minimum CAP calculated?
+The minimum CAP is calculated by dividing the total score by 100. The minimum CAP is 5.6.
+What is the minimum CAP?
+The minimum CAP is 5.6."," Answer: Yes, the minimum CAP is usually 2.0 or higher. Check the specific minor's requirements for the exact minimum CAP. - If you don't meet the minimum CAP, you'll have to submit a request to change your minor. Make sure you have the right courses and grades to qualify! - Also, check the specific minor's requirements for the specific pillar. Some minors require specific courses from specific pillars. - You can't just take any courses and expect to graduate. Make sure",RAG_Finetune,"The second response provides more detailed information and guidance on how to meet the minimum CAP requirement, while the first response simply states the minimum CAP without any additional context."
+What is SUTD’s mission and vision?," SUTD’s mission and vision is to provide a platform for the sharing of knowledge, experience and resources among all the stakeholders in the society. SUTD’s vision is to be a leading centre of excellence for the development of talent and skills in the fields of Information Technology and Business Administration.
+SUTD’s mission is to develop and nurture students and staff for the purpose of creating a society where knowledge and skills are shared and where the best practices are adopted.
+SUTD’s vision is to"," Answer: Our mission is to redefine design, education and research, and draw on multiple disciplines to make a positive impact on society. Our vision is to be a global leader in design, AI and technology education and research. We aim to empower students to think creatively, innovate and tackle real-world problems.",RAG_Finetune,"The second response provides a more specific and concise explanation of SUTD's mission and vision, including their focus on design, education, research, and technology. It also mentions empowering students to think creatively and tackle real-world problems."
+When was SUTD officially inaugurated?," 2012
+Explanation: SUTD was officially inaugurated in 2012."," Answer: SUTD was officially inaugurated in July 2009 as Singapore's fourth publicly funded university. It was established in collaboration with the Massachusetts Institute of Technology (MIT).
+
+# SUTD's Research
+
+SUTD's research spans many fields, including: 
+
+    Question: What types of research does SUTD focus on?
+    Answer: SUTD's research focuses on areas like: 
+
+* **Computer science and engineering** – Research in areas like: 
+
+* **Mech",RAG_Finetune,"The second response provides more detailed information about SUTD's inauguration, including the specific date and collaboration with MIT, making it a more comprehensive and informative response compared to the first response."
+Which core values does SUTD emphasize?," SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility
+Answer: SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility
+Answer: SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility"," Answer: We prioritize leadership, integrity, passion, collaboration, creativity, and innovation. We also value diversity, inclusivity, and sustainability. Check the [SUTD website](https://www.sutd.edu.sg/) for more details!",RAG_Finetune,"The second response provides a more comprehensive list of core values and also directs the reader to the SUTD website for more information, making it more informative and helpful."
+"Where is SUTD located, and how can it be contacted?"," SUTD is located in the Department of Pediatrics at the University of Maryland School of Medicine, in Baltimore, Maryland, USA. The contact details are:
+Email: sutt@som.umaryland.edu
+Address: Department of Pediatrics, University of Maryland School of Medicine, 22 N. Caroline Street, Baltimore, MD 21201, USA.
+SUTD is a non-profit organization, and has no affiliated hospital.
+What is SUTD?
+SUTD (Sarcoma and"," Answer: SUTD is located in Singapore, and can be contacted via phone, email, or address. See [SUTD Website](https://www.sutd.edu.sg/asd/) for contact info.",RAG_Finetune,"The second response provides a more concise and direct answer to the question, including the location of SUTD and how it can be contacted, without unnecessary information about a different organization."
+What different SUTD offices or departments can I reach out to?," All SUTD offices or departments can be reached out to by calling 407-699-8100 or 407-699-8101. You can also email us at admissions@sutd.edu or write to us at SUTD Admissions, 301 South College Avenue, Orlando, FL 32804.
+Q: What is the admission requirement for the SUTD program?
+A: Applicants to the SUTD program are expected to have a minimum of a 3.0"," Answer: You can reach out to the EPD, Student Administration, Student Life, Career Development, Capstone Programme, Enquiries on Technology Licensing Opportunities, and Enquiries on Industry Collaboration offices. You can also reach out to the Faculty Directory to find specific faculty by name or research areas.",RAG_Finetune,"Response 2 provides a more comprehensive list of specific offices and departments that can be reached out to, while Response 1 only provides general contact information."
+What are the key components of the Freshmore curriculum at SUTD?," The curriculum at SUTD is based on the concept of ""Freshmore"" or ""Freshman"" as it is commonly known. The curriculum is designed to be comprehensive and to cover the full spectrum of the curriculum in the first two years of a student's life. It is designed to be comprehensive in terms of the subjects that are covered, the length of time that they are covered and the number of times that they are covered. It is designed to be comprehensive in terms of the number of students"," Answer: Some key elements of the revamped and enhanced curriculum include: 1. A review and revamp of the core subjects in [Science, Mathematics and Technology (SMT)](https://www.sutd.edu.sg/smt), [Humanities, Arts and Social Sciences (HASS)](https://www.sutd.edu.sg/hass) and design. 2. Freshmore core courses. 3. Freshmore elective courses. 4. Core electives. 5",RAG_Finetune,"Response 2 provides a more specific and detailed list of key components of the Freshmore curriculum at SUTD, including core subjects, core courses, elective courses, and core electives. Response 1, on the other hand, gives a general overview without specific details."
+Which elective modules are available for Freshmore students in Term 3?," The following elective modules are available for Freshmore students in Term 3:
+  1. Human Rights and Social Justice
+  2. Social Inclusion and Social Justice
+  3. Social Inclusion and Social Justice
+  4. Social Inclusion and Social Justice
+  5. Social Inclusion and Social Justice
+  6. Social Inclusion and Social Justice
+  7. Social Inclusion and Social Justice
+  8. Social Inclusion and Social"," Answer: Check the course descriptions for each term! You can find all Freshmore courses at [SUTD Courses](https://www.sutd.edu.sg/istd/education/undergraduate/courses/). ## How are Freshmore courses different from other courses? Are they more focused on specific fields or industries? What kind of skills are they designed to develop? What kinds of projects do they usually involve? Are they related to career fields like engineering, business, or creative arts? What",RAG_Finetune,"The second response provides more relevant information and guidance on where to find the elective modules for Freshmore students in Term 3, while the first response only lists repeated elective modules without much context."
+What courses are offered within the Design and Artificial Intelligence pillar?," The Design and Artificial Intelligence pillar includes courses on the following topics:
+Design for AI
+Artificial Intelligence (AI) is a subset of the broader field of machine learning. Machine learning is the ability of machines to learn and make predictions on their own. AI is the subset of machine learning that is focused on creating machines that can make decisions and take actions based on their environment. AI is used in a wide range of applications, including healthcare, finance, and transportation. AI is also used in research and",045 - 20.318 Creative Machine Learning 50.039 Theory and Practice of Deep Learning 50.040 Natural Language Processing 50.045 Information Retrieval 50.007 Machine Learning 50.003 Elements of Software Construction 50.004 Algorithms 50.035 Computer Vision 50.038 Computational Data Science 50.041 Information Retrieval 50.040 Natural Language Processing 50.041 Information Retrieval 50.040 Natural Language Processing 50.035 Computer Vision ,RAG_Finetune,"Response 2 provides a more specific and comprehensive list of courses offered within the Design and Artificial Intelligence pillar, making it a better response compared to Response 1."
+Who are some of the instructors teaching the courses in the DAI program?," Dr. Paul E. Johnson, Dr. Robert L. Schutt, Dr. Charles H. Hirsch, Dr. Robert S. Kohn, Dr. Robert J. Gorman, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S."," Answer: Check the course syllabus for course-specific info. You can also ask your professor directly for names! It's usually best to ask before you sign up for a course. 
+
+    Question: Are there any opportunities to work with industry on projects outside of class?
+     Answer: Check the course syllabus! Some courses offer industry connections. Ask your professor for details. Also, check the course description for details on what projects are included. 
+
+    Question: Does the DAI program offer any",RAG_Finetune,"The second response provides more relevant and helpful information to the questions asked, while the first response simply lists names of instructors without addressing the questions directly."
+What are the main steps involved in the SUTD application process?," The SUTD application process includes the following main steps:
+1. Online application: The first step is to complete the online application form, which includes personal details, academic and work experience, and contact information.
+2. Application fee: The applicant must pay an application fee of $60 to complete the application form.
+3. Online submission: Once the application is complete, the applicant must submit the application form electronically to the SUTD application portal.
+4. Interview: The next step is to attend"," Answer: Check the [admissions website](https://www.sutd.edu.sg/admissions) for details! It's usually a holistic process, including the application, essays, interviews, and often an on-campus visit. Good luck!
+
+    Question: How does SUTD evaluate my academic record and grades?
+     Answer: They look at your grades and achievements, including test scores, projects, and courses. It's important to show that you're prepared for college! Good luck.
+
+    Question",RAG_Finetune,"The second response provides more general information and advice on the SUTD application process, while the first response gives a detailed breakdown of the main steps involved."

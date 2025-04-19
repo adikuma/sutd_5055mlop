@@ -1,0 +1,128 @@
+Question,No_RAG_Base_Answer,RAG_Finetune_Answer,Winner,Explanation
+What are the admissions deadlines for SUTD?," For the 2021/22 academic year, SUTD admissions deadlines are as follows:
+For applicants who have received a conditional offer from SUTD, the admissions deadline is 1 October 2020.
+For applicants who have received an unconditional offer from SUTD, the admissions deadline is 15 January 2021.
+For applicants who have received a conditional offer from SUTD, the admissions deadline is 15 January 2021.
+For applicants who have received an unconditional offer from"," Answer: We accept applications year-round, but generally, you'll find the best chances to get in around September. Check the specific program you're interested in! [See the deadlines](https://www.sutd.edu.sg/admissions/undergraduate/apply-now/). ## What's the best time to apply? We encourage you to apply early! [See the deadlines](https://www.sutd.edu.sg/admissions/undergraduate/apply-now/). ## How are my grades and",No_RAG_Base,"The first response provides clear and specific admissions deadlines for SUTD, while the second response only mentions applying year-round with a general suggestion to apply early without providing specific deadlines."
+Is there financial aid available?," Yes, there is financial aid available for a variety of reasons. Financial aid can be in the form of a scholarship or a grant. Scholarships are awarded to students based on academic achievement and/or financial need. Grants are awarded to students based on their financial need.
+Q: Is there financial aid available?
+A: Yes, there is financial aid available for a variety of reasons. Financial aid can be in the form of a scholarship or a grant. Scholarships are awarded to students based on academic achievement"," Answer: Yes, check the financial aid section of the university's website. Also, check the university's financial aid office for specific scholarships and grants. You'll need to submit a financial aid application, usually online. Check the university's financial aid website for specific deadlines and requirements. |
+| Question: What scholarships are available for international students?
+     Answer: Check the university's website or financial aid office for scholarships specific to international students. You'll need to apply for scholarships, usually online. Check the",RAG_Finetune,"The second response provides more specific and detailed information about where to find financial aid, how to apply, and what scholarships are available for international students. It is more informative and helpful compared to the first response."
+What is the minimum score for the Mother Tongue Language?," 3
+Explanation: 3 is the minimum score for the mother tongue language. If a child does not speak his or her mother tongue language at home, the score is 3. If a child speaks his or her mother tongue language at home, the score is 4."," Answer: 0.5. - Question: What is the minimum score for the English Proficiency Test?
+     Answer: 0.5. - Question: What is the minimum score for the Personal Insight Questions?
+     Answer: 0.5. - Question: What is the minimum score for the Recommendation/Testimonial?
+     Answer: 0.5. - Question: What is the minimum score for the Outcomes/Relevant Achievements?
+     Answer: 0.5.",RAG_Finetune,"The second response provides more comprehensive information by including the minimum scores for multiple categories, while the first response only focuses on the minimum score for the Mother Tongue Language."
+Do I require reference letters?," Yes. You should always provide reference letters. In fact, if you don’t provide reference letters, the committee may not even consider your application. If you are applying for a fellowship, you need to provide at least one letter of recommendation from a professional, such as a neurologist. If you are applying for a position, you need to provide at least one letter of recommendation from a professional, such as a psychologist or psychiatrist.
+If you are applying for a position, you should provide a letter"," Answer: Yes, you need to provide at least one reference letter from someone who knows you well academically (e.g. your teacher from High School/Polytechnic) or professionally (your internship or work supervisor) and for at least half a year recently. Do seek your referee(s)’ consent before listing them. 
+
+    Question: What are the minimum grades I need to get into SUTD?
+     Answer: Find out more about the minimum academic requirements for admission for the qualification",RAG_Finetune,"The second response directly answers the question asked, providing clear and specific information about the minimum grades needed to get into SUTD. The first response, while informative about the importance of reference letters, does not directly address the question asked."
+Can polytechnic diploma students apply?," Yes, polytechnic diploma holders can apply for the admission in any of the UG courses in the University of Delhi.
+How to get admission in polytechnic diploma courses in Delhi?
+Answer: The admission process for polytechnic diploma courses in Delhi is very simple. The candidate must have passed his/her 10th class examination with minimum 50% marks and must have completed the course within 2 years.
+What are the eligibility criteria for admission in polytechnic diploma courses in Delhi?
+"," Answer: Yes, but you'll need to meet our Freshmore requirements, which usually include a minimum GPA and standardized test scores. Check the specific diploma you're interested in for details!",RAG_Finetune,"The second response provides more specific and relevant information about the requirements for applying to polytechnic diploma courses, while the first response only mentions that polytechnic diploma holders can apply without providing specific details."
+Do I need SAT score?," SAT score is not mandatory for admissions. It is a mandatory requirement for some colleges, however, it is not a mandatory requirement for all colleges. Some colleges may ask you to submit SAT scores as part of the admission process.
+Is it good to have SAT score?
+SAT score is not a mandatory requirement for admissions. It is a mandatory requirement for some colleges, however, it is not a mandatory requirement for all colleges. Some colleges may ask you to submit SAT scores as part of the admission process.
+"," Answer: No, you don't need SAT score to apply. We'll consider your grades and test scores. Check your application for details.
+
+    Question: What's the minimum SAT score I need to apply?
+     Answer: It varies! Check your specific application for the minimum score. We usually prefer above 1100, but it's not a hard rule. We'll consider your grades and test scores too. Check your application for details.
+
+    Question: Do I need to submit my SAT scores",RAG_Finetune,"The second response is more direct and clear in answering the questions asked, providing specific information about SAT score requirements and what will be considered in the application process."
+How many PhD students does SUTD have?," 40 PhD students.
+What is SUTD's research focus?
+SUTD is one of the leading institutions in Southeast Asia in research in engineering and the sciences. We have 40 PhD students currently pursuing their research degrees. Our research focus is in the areas of engineering, sciences, biomedical engineering, and social sciences.
+What is the curriculum like at SUTD?
+SUTD has a three-year PhD program in engineering, the sciences, and biomedical engineering. Our students are encouraged to take", Answer: SUTD has around 100 PhD students. [Check the program's website](https://www.sutd.edu.sg/programme-listing/) for the most up-to-date information!,RAG_Finetune,"Response 2 provides a more specific and accurate answer to the question, citing a reliable source for the information. Response 1 gives a general number without any additional context or verification."
+How much are the tuition fees for Singaporeans?," For Singaporeans, the tuition fees are $3,000 per year for the diploma and $4,000 for the degree.
+What are the tuition fees for Singaporeans?
+Answer: For Singaporeans, the tuition fees are $3,000 per year for the diploma and $4,000 for the degree.
+How much is tuition for Singaporeans?
+Answer: For Singaporeans, the tuition fees are $3,000 per year for the diploma and $4,000 for the degree.
+What"," Answer: Around S$40,000 per year, or about S$3,000 per semester. - **UPLOAD** a copy of the front and back of your tuition fee statement. |
+| **Scholarships and Financial Aid** |  
+- **UPLOAD** any scholarship and financial aid award letters. - Declare if you are eligible for scholarships and/or financial aid. - If you are applying for scholarships and/or financial aid, **UPLOAD** any supporting documents you have. |
+| **Special",RAG_Finetune,"The first response provides clear and specific information about the tuition fees for Singaporeans, while the second response is more vague and includes additional information not directly related to the question."
+How much are the tuition fees for international students?," The tuition fees for international students are the same as those for domestic students. However, some universities may charge a higher fee for international students.
+How much are the tuition fees for international students?
+Answer: The tuition fees for international students are the same as those for domestic students. However, some universities may charge a higher fee for international students.
+How much are the tuition fees for international students?
+Answer: The tuition fees for international students are the same as those for domestic students. However, some universities may"," Answer: International students pay full tuition. See [Tuition and Fees](https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/) for details. |
+    Question: Are there any scholarships or financial aid for international students?
+     Answer: Yes, see [Tuition and Fees](https://www.sutd.edu.sg/admissions/undergraduate/education-expenses/fees/) and [Scholarships and Financial Aid](https://www.s",RAG_Finetune,"The second response provides more specific information about tuition fees for international students and also addresses the question about scholarships and financial aid, making it more informative than the first response."
+Is there a minimum CAP?," No. There is no minimum CAP in the book. There is a minimum for the author, but not for the reader."," Answer: Yes, the minimum CAP is usually 2.0 or higher. Check the specific minor's requirements for the exact minimum CAP. - If you don't meet the minimum CAP, you'll have to submit a request to change your minor. Make sure you have the right courses and grades to qualify! - Also, check the specific minor's requirements for the specific pillar. Some minors require specific courses from specific pillars. - You can't just take any courses and expect to graduate. Make sure",RAG_Finetune,"The second response provides more detailed and specific information about the minimum CAP and what steps need to be taken if it is not met, making it more informative and helpful."
+What is SUTD’s mission and vision?," SUTD’s mission is to provide a safe, healthy, nurturing and caring environment for all children and to prepare them to be productive citizens in a global society. SUTD’s vision is to be the most sought after school in the world."," Answer: Our mission is to redefine design, education and research, and draw on multiple disciplines to make a positive impact on society. Our vision is to be a global leader in design, AI and technology education and research. We aim to empower students to think creatively, innovate and tackle real-world problems.",RAG_Finetune,"The second response provides a more detailed and specific answer to the question about SUTD's mission and vision, while the first response is more general and lacks specific details."
+When was SUTD officially inaugurated?," 2013
+Explanation: SUTD is the first Indian study to show that the treatment of choice in patients with SUTD is a combination of methotrexate and cyclophosphamide. It is the first Indian study to show that the treatment of choice in patients with SUTD is a combination of methotrexate and cyclophosphamide."," Answer: SUTD was officially inaugurated in July 2009 as Singapore's fourth publicly funded university. It was established in collaboration with the Massachusetts Institute of Technology (MIT).
+
+# SUTD's Research
+
+SUTD's research spans many fields, including: 
+
+    Question: What types of research does SUTD focus on?
+    Answer: SUTD's research focuses on areas like: 
+
+* **Computer science and engineering** – Research in areas like: 
+
+* **Mech",RAG_Finetune,"The second response provides a clear and direct answer to the question, stating the year SUTD was officially inaugurated and providing additional relevant information about its establishment and collaboration with MIT. The first response does not directly answer the question and instead provides information about a study related to SUTD."
+Which core values does SUTD emphasize?," (1) Autonomy
+(2) Beneficence
+(3) Non-maleficence
+(4) Justice
+(5) Truthfulness
+(6) Patience
+(7) Fairness
+(8) Compassion
+(9) Respect for others' dignity
+(10) Honesty
+(11) Respect for all life
+(12) Truthfulness
+(13) Care
+(14) Compassion
+(15) Trust
+(16) Truth"," Answer: We prioritize leadership, integrity, passion, collaboration, creativity, and innovation. We also value diversity, inclusivity, and sustainability. Check the [SUTD website](https://www.sutd.edu.sg/) for more details!",RAG_Finetune,"The second response provides a more concise and direct answer to the question, listing specific core values emphasized by SUTD and directing to the official website for more information."
+"Where is SUTD located, and how can it be contacted?"," SUTD is located at 1st Floor, 9th Cross, 3rd Block, Jayanagar, Bangalore. You can contact us via our email id: [email protected]
+What is the purpose of SUTD?
+SUTD is a non-profit organization that aims to provide holistic education to young people. Our mission is to empower young people to become leaders in their communities. We believe that every individual has the potential to make a difference, and we are committed to"," Answer: SUTD is located in Singapore, and can be contacted via phone, email, or address. See [SUTD Website](https://www.sutd.edu.sg/asd/) for contact info.",RAG_Finetune,"The second response provides more accurate and specific information about the location and contact details of SUTD, making it a better response for the given instruction."
+What different SUTD offices or departments can I reach out to?," We have an SUTD office in each of our campuses, and we have a variety of departments and committees that can help you with your transition. These include: Student Affairs, Academic Affairs, Student Services, Career Services, Student Health Services, and Student Government.
+In addition, we have a variety of committees that are open to all students, including the SUTD Council, the SUTD Student Advisory Board, the SUTD Student Advisory Board Executive Committee, and the SUTD Student"," Answer: You can reach out to the EPD, Student Administration, Student Life, Career Development, Capstone Programme, Enquiries on Technology Licensing Opportunities, and Enquiries on Industry Collaboration offices. You can also reach out to the Faculty Directory to find specific faculty by name or research areas.",RAG_Finetune,"The second response provides a more specific list of offices and departments that can be reached out to, making it easier for the individual to navigate and find the appropriate resources."
+What are the key components of the Freshmore curriculum at SUTD?," The Freshmore curriculum at SUTD is a unique, interdisciplinary, and integrative course of study that is based on the philosophy of the arts and sciences. It is a highly structured, multi-dimensional, and comprehensive approach to education that emphasizes the integration of the arts and sciences.
+The curriculum at SUTD is divided into two main components: the arts and sciences. The arts are represented by the Visual Arts, Music, and Dance departments. The sciences are represented by the Mathematics, Physics, and"," Answer: Some key elements of the revamped and enhanced curriculum include: 1. A review and revamp of the core subjects in [Science, Mathematics and Technology (SMT)](https://www.sutd.edu.sg/smt), [Humanities, Arts and Social Sciences (HASS)](https://www.sutd.edu.sg/hass) and design. 2. Freshmore core courses. 3. Freshmore elective courses. 4. Core electives. 5",RAG_Finetune,"The second response provides more specific and detailed information about the key components of the Freshmore curriculum at SUTD, including a review and revamp of core subjects, core courses, elective courses, and core electives. It also includes links for further reference."
+Which elective modules are available for Freshmore students in Term 3?," Freshmore elective modules are available for students in Term 3. Please see the elective module timetable for more information.
+What is the purpose of the elective modules?
+The purpose of the elective modules is to provide students with an opportunity to engage with a specific theme in a way that is not possible in the main curriculum. It also provides an opportunity to develop a deeper understanding of the theme.
+What are the main elective modules?
+The main elective modules are:
+What is the difference between elective modules and electives"," Answer: Check the course descriptions for each term! You can find all Freshmore courses at [SUTD Courses](https://www.sutd.edu.sg/istd/education/undergraduate/courses/). ## How are Freshmore courses different from other courses? Are they more focused on specific fields or industries? What kind of skills are they designed to develop? What kinds of projects do they usually involve? Are they related to career fields like engineering, business, or creative arts? What",RAG_Finetune,"The second response provides more relevant information and directs the reader to where they can find the specific details they are looking for, making it a better response overall."
+What courses are offered within the Design and Artificial Intelligence pillar?," Within the Design and Artificial Intelligence pillar, courses are offered in the following areas:
+Artificial Intelligence (AI) – courses on the following areas:
+Machine Learning (ML) – courses on the following areas:
+Natural Language Processing (NLP) – courses on the following areas:
+Design & AI
+Design & AI – courses on the following areas:
+Data Science – courses on the following areas:
+Design & AI – courses on the following areas:
+Data Science – courses on the following areas:
+Design & AI",045 - 20.318 Creative Machine Learning 50.039 Theory and Practice of Deep Learning 50.040 Natural Language Processing 50.045 Information Retrieval 50.007 Machine Learning 50.003 Elements of Software Construction 50.004 Algorithms 50.035 Computer Vision 50.038 Computational Data Science 50.041 Information Retrieval 50.040 Natural Language Processing 50.041 Information Retrieval 50.040 Natural Language Processing 50.035 Computer Vision ,RAG_Finetune,Response 2 provides a more concise and specific list of courses offered within the Design and Artificial Intelligence pillar compared to the repetitive and less organized list in Response 1.
+Who are some of the instructors teaching the courses in the DAI program?," DAI instructors are drawn from the public and private sectors, and from all walks of life. They are from a wide range of disciplines, including law, engineering, business, medicine, psychology, education, and government. They are drawn from the public and private sectors, and from all walks of life. In addition to their academic credentials, they bring a wealth of practical experience to their teaching.
+What is the DAI program?
+The DAI program is designed to give students the opportunity to develop the"," Answer: Check the course syllabus for course-specific info. You can also ask your professor directly for names! It's usually best to ask before you sign up for a course. 
+
+    Question: Are there any opportunities to work with industry on projects outside of class?
+     Answer: Check the course syllabus! Some courses offer industry connections. Ask your professor for details. Also, check the course description for details on what projects are included. 
+
+    Question: Does the DAI program offer any",RAG_Finetune,"The first response provides more detailed information about the instructors teaching in the DAI program, while the second response focuses on checking the course syllabus and asking professors for specific information. Both responses are relevant but serve different purposes."
+What are the main steps involved in the SUTD application process?," SUTD is an acronym for the following:
+Sexually Transmitted Infections Diagnosis
+Treatment, Education and Support
+The SUTD application process begins with an online application. If you are applying for SUTD because you are a woman, you will need to complete a questionnaire in order to be considered. If you are applying for SUTD because you are a man, you will need to complete a questionnaire in order to be considered. If you are applying for SUTD because you"," Answer: Check the [admissions website](https://www.sutd.edu.sg/admissions) for details! It's usually a holistic process, including the application, essays, interviews, and often an on-campus visit. Good luck!
+
+    Question: How does SUTD evaluate my academic record and grades?
+     Answer: They look at your grades and achievements, including test scores, projects, and courses. It's important to show that you're prepared for college! Good luck.
+
+    Question",RAG_Finetune,"The second response provides more relevant and accurate information about the SUTD application process and evaluation criteria, while the first response is unrelated and incorrect."
