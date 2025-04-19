@@ -1,59 +1,29 @@
----
-base_model: unsloth/llama-3.2-1b-bnb-4bit
-library_name: transformers
-model_name: llama-3.2-1B-sutdqa
-tags:
-- generated_from_trainer
-- unsloth
-- trl
-- sft
-licence: license
----
+# BYTEUS Project
 
-# Model Card for llama-3.2-1B-sutdqa
+## Team Members
 
-This model is a fine-tuned version of [unsloth/llama-3.2-1b-bnb-4bit](https://huggingface.co/unsloth/llama-3.2-1b-bnb-4bit).
-It has been trained using [TRL](https://github.com/huggingface/trl).
+- Caitlin Chiang (1006537)
+- Aditya Kumar (1006300)
+- Chin Wei Ming (1006264)
+- Mahima Sharma (1006106)
 
-## Quick start
+## Project Description
 
-```python
-from transformers import pipeline
+This project involved creating an advanced chatbot for SUTD prospective students. We fine-tuned a Llama 3.2 1B model on question-answer pairs about SUTD. The project compared multiple approaches:
 
-question = "If you had a time machine, but could only go to the past or the future once and never return, which would you choose and why?"
-generator = pipeline("text-generation", model="adi0308/llama-3.2-1B-sutdqa", device="cuda")
-output = generator([{"role": "user", "content": question}], max_new_tokens=128, return_full_text=False)[0]
-print(output["generated_text"])
-```
+1. Base model without RAG
+2. Fine-tuned model without RAG
+3. Base model with RAG
+4. Fine-tuned model with RAG
 
-## Training procedure
+Our results showed that the fine-tuned model with RAG achieved the best performance with a 467% improvement in BLEU scores and 4.6% improvement in cosine similarity compared to the base model.
 
-[<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Visualize in Weights & Biases" width="150" height="24"/>](https://wandb.ai/adityakuma0308/huggingface/runs/5hqsck4z) 
+The project leveraged several technologies:
 
+- LangChain for RAG implementation
+- Unsloth for parameter-efficient fine-tuning
+- FAISS for vector storage
+- Flashrank for reranking
+- Google AI Studio with Gemini 2.0 for synthetic data generation
 
-This model was trained with SFT.
-
-### Framework versions
-
-- TRL: 0.14.0
-- Transformers: 4.51.1
-- Pytorch: 2.6.0+cu118
-- Datasets: 3.5.0
-- Tokenizers: 0.21.1
-
-## Citations
-
-
-
-Cite TRL as:
-    
-```bibtex
-@misc{vonwerra2022trl,
-	title        = {{TRL: Transformer Reinforcement Learning}},
-	author       = {Leandro von Werra and Younes Belkada and Lewis Tunstall and Edward Beeching and Tristan Thrush and Nathan Lambert and Shengyi Huang and Kashif Rasul and Quentin Gallouédec},
-	year         = 2020,
-	journal      = {GitHub repository},
-	publisher    = {GitHub},
-	howpublished = {\url{https://github.com/huggingface/trl}}
-}
-```
+The final evaluation used multiple metrics including BLEU scores, cosine similarity, and an LLM-as-judge evaluation framework that assessed faithfulness, relevance, and completeness of responses.
