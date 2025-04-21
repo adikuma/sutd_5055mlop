@@ -10,8 +10,8 @@ Note: Applicants who are admitted to SUTD will be notified by February 1, "," An
      Answer: Find out more about the minimum academic requirements for admission for the qualification you are applying under here:
 
     * [Singapore-Cambridge GCE A-Level](https://www.sutd.edu.sg/admissions/undergraduate/singapore-cambridge-gce-a-level/criteria-for-admission)
-    * [Local",RAG_Base,"The second response provides information about the application deadline and also includes a link to find out more about the minimum requirements for admission, making it more comprehensive than the first response."
-Is there financial aid available?," Yes, there is financial aid available to all students who are in need of financial assistance. The College offers financial aid to qualified students who are in need of financial assistance. The College is committed to providing financial assistance to qualified students who are in need of financial assistance. The College provides need-based financial aid to students who meet the requirements of the College. The College also provides merit-based financial aid to students who meet the requirements of the College. The College provides need-based financial aid to students who meet the", Answer: Yes. You may apply for [financial aid](https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/) and/or [scholarships administered by SUTD](https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/). You may also apply for [Tuition Grant](https://www.sutd.edu.sg/admissions/undergraduate/education-exp,RAG_Base,"The second response provides more concise and direct information with links for further details, making it easier for the reader to access specific information about financial aid options."
+    * [Local",RAG_Base,Model 2 provides a more recent and relevant deadline (2025) compared to Model 1 (2018/2019). Model 2 also provides a link to the minimum requirements for admission.
+Is there financial aid available?," Yes, there is financial aid available to all students who are in need of financial assistance. The College offers financial aid to qualified students who are in need of financial assistance. The College is committed to providing financial assistance to qualified students who are in need of financial assistance. The College provides need-based financial aid to students who meet the requirements of the College. The College also provides merit-based financial aid to students who meet the requirements of the College. The College provides need-based financial aid to students who meet the", Answer: Yes. You may apply for [financial aid](https://www.sutd.edu.sg/admissions/undergraduate/financing-options-and-aid/financial-aid/) and/or [scholarships administered by SUTD](https://www.sutd.edu.sg/admissions/undergraduate/scholarship/sutd-administered/). You may also apply for [Tuition Grant](https://www.sutd.edu.sg/admissions/undergraduate/education-exp,RAG_Base,"Model 2 is better because it provides a more helpful and informative answer. It not only confirms that financial aid is available but also provides links to relevant resources, allowing the user to easily access more information and apply for aid. Model 1 is repetitive and doesn't offer any specific details or resources."
 What is the minimum score for the Mother Tongue Language?," 4.0
 Explanation: The minimum score for the Mother Tongue Language is 4.0. The minimum score for the Language Competency is 4.0. The minimum score for the Language Proficiency is 4.0."," Answer: 60%
     Question: What is the minimum score for the Personal Insight Question?
@@ -24,7 +24,7 @@ Explanation: The minimum score for the Mother Tongue Language is 4.0. The minimu
      Answer: 60%
 
 ## Academic Transcript
-- The minimum grade requirement for the academic transcript is",RAG_Base,"The second response provides more detailed information about the minimum score requirements for various components, while the first response only focuses on the Mother Tongue Language score."
+- The minimum grade requirement for the academic transcript is",No_RAG_Finetune,Model 1 is better because it provides a more relevant answer to the question. Model 2 provides information about other topics that are not related to the question.
 Do I require reference letters?, You will require a reference letter from a professional. The reference letter should be from someone who is well placed to assess your abilities and experience. They should have a good knowledge of your work and be able to comment on your suitability for the role.," Answer: Yes. At least one reference letter should be provided by a teacher from your school or any other relevant educational institution.
     Question: Do I require a reference letter from an employer?
      Answer: No. You may submit your own reference letter instead.
@@ -37,7 +37,7 @@ Do I require reference letters?, You will require a reference letter from a prof
 ### Qualities and traits
 
     Question: Do I require a reference letter?
-     Answer: Yes",RAG_Base,The second response is more straightforward and directly answers the question without unnecessary details. It also provides clear guidance on who should provide the reference letter.
+     Answer: Yes",No_RAG_Finetune,"Model 1 is better because it provides a more general and helpful answer. Model 2 is too specific and assumes the user is a student, which may not be the case. Additionally, Model 2's formatting is strange and includes irrelevant questions and answers."
 Can polytechnic diploma students apply?," Yes, Polytechnic diploma holders can apply for admission in the 2nd year of M.Sc. (Applied Geology) course.
 What is the eligibility for polytechnic diploma holders to apply for M.Sc. (Applied Geology) course?
 Can polytechnic diploma holders apply for M.Sc. (Applied Geology) course?
@@ -46,17 +46,17 @@ What is the duration of the course?
 The duration of"," Answer: Yes. Students with polytechnic diploma who have completed 2 years of polytechnic education will be eligible to apply for admission to SUTD’s undergraduate programme. Students who have completed 3 years of polytechnic education will be eligible to apply for admission to SUTD’s undergraduate programme.
 
     Question: Can diploma holders with 2 years of diploma education apply?
-     Answer: Yes. Diploma holders with 2 years of diploma education will be eligible to apply for admission to",RAG_Base,"The second response provides more detailed information about the eligibility criteria for polytechnic diploma holders to apply for admission to SUTD's undergraduate programme, while the first response only mentions that polytechnic diploma holders can apply for M.Sc. (Applied Geology) course without specifying the eligibility criteria."
+     Answer: Yes. Diploma holders with 2 years of diploma education will be eligible to apply for admission to",RAG_Base,"Model 2 is better because it provides a more coherent and relevant answer to the question. It specifically mentions SUTD's undergraduate program, which gives context to the eligibility criteria for polytechnic diploma holders. Model 1's response is contradictory and lacks clarity, making it less helpful to the user."
 Do I need SAT score?," SAT scores are not required by most colleges and universities. However, many colleges and universities require SAT scores to be submitted. The SAT is a standardized test that measures your ability in reading, writing, math, and science.
 The SAT is a standardized test that measures your ability in reading, writing, math, and science. It is a test that is given to students who are interested in attending college. It is a test that is given to students who are interested in attending college.
 What are the requirements"," Answer: No, you don't need SAT score to apply to SUTD. We will accept your application without SAT score, as long as you have the required grades in the following subjects.
     Question: Can I apply for SUTD without having the required grades?
-     Answer: No. We will accept your application without having the required grades in the following subjects. However, you will need to show your interest in SUTD through your application, such as your strong grades in Mathematics and",RAG_Base,The second response is better because it directly answers the question and provides clear information about the specific requirements for applying to SUTD without SAT scores.
+     Answer: No. We will accept your application without having the required grades in the following subjects. However, you will need to show your interest in SUTD through your application, such as your strong grades in Mathematics and",No_RAG_Finetune,Model 1 is better because it provides a more general and accurate answer to the question. Model 2 is too specific and doesn't provide a helpful answer to the general question.
 How many PhD students does SUTD have?," SUTD has 10 PhD students. They are all PhD students in the SUTD Doctoral College.
 What is the main theme of the paper?
 The main theme of the paper is that the development of robots will be very different from that of the human race. The paper will discuss the different robots and how they will develop in the future. The paper will also discuss the different types of robots and how they will be developed in the future.
 The paper will also discuss the different types of"," Answer: 1500
-",RAG_Base,"The second response is more direct and provides a specific number, while the first response provides additional context but does not directly answer the question."
+",RAG_Base,Model 2 provides a more accurate answer. Model 1's answer is incorrect and also includes irrelevant information about a paper.
 How much are the tuition fees for Singaporeans?," For Singaporeans, the tuition fees are not applicable. For foreigners, the tuition fees are applicable to all programmes. For Singaporeans, the tuition fees are not applicable.
 What is the tuition fee for Singaporean students?
 For Singaporean students, the tuition fee is not applicable.
@@ -71,11 +71,11 @@ How much is the tuition fee for international students"," Answer: The tuition fe
      Answer: The maximum age for admission is 23 years old.
 
     Question: What is the minimum English proficiency?
-     Answer: The",RAG_Base,"The second response provides more specific and detailed information about the tuition fees for both Singaporean and international students, as well as additional information about admission requirements. It is more informative and helpful compared to the first response."
+     Answer: The",RAG_Base,"Model 1 is repetitive and does not provide a clear answer to the question. Model 2 provides a more helpful answer, even though it also includes information about other questions."
 How much are the tuition fees for international students?," The tuition fees for international students is determined by the level of study and the type of institution. For example, for the bachelor degree, the tuition fees for international students may be higher than the tuition fees for local students. For the master degree, the tuition fees for international students may be lower than the tuition fees for local students. For the doctoral degree, the tuition fees for international students may be even lower than the tuition fees for local students.
 Answer: The tuition fees for international students are determined by"," Answer: We are pleased to inform you that Singapore citizens and Singapore Permanent Residents will be charged the same tuition fees as local students. We will be able to offer the same scholarship to Singapore Citizens and Singapore Permanent Residents as local students. We will be able to offer the same tuition fees as local students. We will be able to offer the same scholarship to Singapore Citizens and Singapore Permanent Residents as local students.
     Question: How much are the tuition fees for international students?
-     Answer: We are pleased to",RAG_Base,"The second response directly addresses the question about tuition fees for international students, while the first response provides a general explanation without specifying actual amounts."
+     Answer: We are pleased to",No_RAG_Finetune,Model 1 is better because it provides a more relevant answer to the question. Model 2's response is nonsensical and does not answer the question.
 Is there a minimum CAP?," No. The minimum CAP is 5.6.
 How do I calculate my minimum CAP?
 How is minimum CAP calculated?
@@ -93,7 +93,7 @@ The minimum CAP is 5.6."," Answer: Yes. The minimum CAP is 6.0.
      Answer: There are 60 credits for a minor.
 
     Question: What is the minimum CAP for a minor?
-     Answer:",RAG_Base,"The second response provides more concise and direct answers to the questions asked, making it easier to understand and follow."
+     Answer:",RAG_Base,Model 2 is better because it provides a more accurate answer to the question. Model 1 contradicts itself by saying there is no minimum CAP and then stating that the minimum CAP is 5.6.
 What is SUTD’s mission and vision?," SUTD’s mission and vision is to provide a platform for the sharing of knowledge, experience and resources among all the stakeholders in the society. SUTD’s vision is to be a leading centre of excellence for the development of talent and skills in the fields of Information Technology and Business Administration.
 SUTD’s mission is to develop and nurture students and staff for the purpose of creating a society where knowledge and skills are shared and where the best practices are adopted.
 SUTD’s vision is to"," Context: ## Our Mission
@@ -109,7 +109,7 @@ SUTD’s vision is to"," Context: ## Our Mission
 
     Question: What is SUTD’s vision?
     Context: ## Our Vision
-",RAG_Base,"The second response provides a more concise and direct answer to the questions asked, clearly stating SUTD's core values and vision. It also includes specific details about their mission and values, making it more informative."
+",No_RAG_Finetune,"Model 1 provides a more complete and relevant answer to the question. Model 2's response is incomplete and seems to be formatted for a different type of question-answering task, including context and other questions."
 When was SUTD officially inaugurated?," 2012
 Explanation: SUTD was officially inaugurated in 2012."," Answer: 18 July 2012
     Question: What is SUTD's motto?
@@ -120,7 +120,7 @@ Explanation: SUTD was officially inaugurated in 2012."," Answer: 18 July 2012
     Answer: ""Society, Technology, Unity""
     Question: What is the name of the university's mascot?
     Answer: The ""Sutradhar""
-    Question",RAG_Base,"The second response provides more detailed information including the specific date of SUTD's inauguration, its motto, and the name of the university's mascot, making it a more comprehensive and informative response compared to the first response."
+    Question",No_RAG_Finetune,Model 1 is better because it directly answers the question. Model 2 provides the correct date but also includes irrelevant information and formatting issues.
 Which core values does SUTD emphasize?," SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility
 Answer: SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility
 Answer: SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Respect 4. Responsibility"," Answer: Our core values are Leadership, Integrity, Passion, Collaboration, Creativity and Resilience.
@@ -128,20 +128,20 @@ Answer: SUTD emphasizes the following core values: 1. Truth 2. Integrity 3. Resp
     Answer: To redefine design, education and research, and draw on multiple disciplines to make a positive impact on society.
     Question: How does SUTD achieve its vision?
     Answer: To achieve our vision, we nurture technically-grounded leaders, who embrace risks and innovate towards a better tomorrow.
-    Question: What is the",RAG_Base,"The first response accurately lists the core values emphasized by SUTD, but the second response provides a more comprehensive overview of SUTD's vision and how it is achieved."
+    Question: What is the",RAG_Base,"Model 2 provides the correct core values of SUTD, while Model 1's answer is incorrect. Model 2 also provides additional information about SUTD's vision."
 "Where is SUTD located, and how can it be contacted?"," SUTD is located in the Department of Pediatrics at the University of Maryland School of Medicine, in Baltimore, Maryland, USA. The contact details are:
 Email: sutt@som.umaryland.edu
 Address: Department of Pediatrics, University of Maryland School of Medicine, 22 N. Caroline Street, Baltimore, MD 21201, USA.
 SUTD is a non-profit organization, and has no affiliated hospital.
 What is SUTD?
 SUTD (Sarcoma and"," Answer: SUTD is located at 8 Somapah Road Singapore 487372. It can be contacted at +65 6303 6600 / +65 6303 6655 / [enquiry@sutd.edu.sg](mailto:enquiry@sutd.edu.sg) / [admissions@sutd.edu.sg](mailto:admissions@sutd.edu.sg)
-",RAG_Base,"Response 2 provides more specific and accurate information about the location and contact details of SUTD compared to Response 1, which includes irrelevant information about a different organization."
+",RAG_Base,Model 2 provides the correct location and contact information for SUTD (Singapore University of Technology and Design). Model 1 provides information for a different organization with the same acronym.
 What different SUTD offices or departments can I reach out to?," All SUTD offices or departments can be reached out to by calling 407-699-8100 or 407-699-8101. You can also email us at admissions@sutd.edu or write to us at SUTD Admissions, 301 South College Avenue, Orlando, FL 32804.
 Q: What is the admission requirement for the SUTD program?
-A: Applicants to the SUTD program are expected to have a minimum of a 3.0", Answer: SUTD has several departments and offices. Please refer to the [Faculty Directory](https://www.sutd.edu.sg/about/people/faculty) to find faculty by name or research areas. You can also reach out to the [Admissions Office](https://www.sutd.edu.sg/admissions/undergraduate/ask-admissions/) or [Graduate Admissions Office](https://www.sutd.edu.sg/gradoffice/) to ask for a specific type of programme,RAG_Base,"Response 2 provides more detailed information on the different departments and offices at SUTD, including links for further reference. It also directs the individual to specific offices based on their needs, such as admissions or graduate admissions."
+A: Applicants to the SUTD program are expected to have a minimum of a 3.0", Answer: SUTD has several departments and offices. Please refer to the [Faculty Directory](https://www.sutd.edu.sg/about/people/faculty) to find faculty by name or research areas. You can also reach out to the [Admissions Office](https://www.sutd.edu.sg/admissions/undergraduate/ask-admissions/) or [Graduate Admissions Office](https://www.sutd.edu.sg/gradoffice/) to ask for a specific type of programme,RAG_Base,"Model 2 is better because it provides links to the SUTD website, which is more helpful than Model 1's response. Model 1 also seems to be providing information for a different school, as SUTD is located in Singapore, not Florida."
 What are the key components of the Freshmore curriculum at SUTD?," The curriculum at SUTD is based on the concept of ""Freshmore"" or ""Freshman"" as it is commonly known. The curriculum is designed to be comprehensive and to cover the full spectrum of the curriculum in the first two years of a student's life. It is designed to be comprehensive in terms of the subjects that are covered, the length of time that they are covered and the number of times that they are covered. It is designed to be comprehensive in terms of the number of students"," Answer: The Freshmore curriculum at SUTD consists of the following components:
         - **Foundation:** The first three terms are common to all students and build the foundation in [Science, Mathematics and Technology (SMT)](https://www.sutd.edu.sg/smt), [Humanities, Arts and Social Sciences (HASS)](https://www.sutd.edu.sg/hass) and design.
-        - **Freshmore Subjects:** Having completed a review and revamp, S",RAG_Base,"The second response provides a more specific and detailed breakdown of the key components of the Freshmore curriculum at SUTD, including the foundation subjects and Freshmore subjects. It is more informative and directly addresses the question asked."
+        - **Freshmore Subjects:** Having completed a review and revamp, S",RAG_Base,"Model 2 is better because it provides a more complete and relevant answer to the question. It identifies the key components of the Freshmore curriculum at SUTD, such as the foundation in Science, Mathematics and Technology (SMT), Humanities, Arts and Social Sciences (HASS), and design. Model 1, on the other hand, is repetitive and does not provide specific information about the curriculum's components."
 Which elective modules are available for Freshmore students in Term 3?," The following elective modules are available for Freshmore students in Term 3:
   1. Human Rights and Social Justice
   2. Social Inclusion and Social Justice
@@ -153,17 +153,17 @@ Which elective modules are available for Freshmore students in Term 3?," The fol
   8. Social Inclusion and Social"," Answer: Freshmore students in Term 3 have the following options:
      - [Science and Technology for Healthcare](https://www.sutd.edu.sg/course/10-019-science-and-technology-for-healthcare-elective/) – Elective
      - [Data Driven World](https://www.sutd.edu.sg/course/10-020/data-driven-world-elective/) – Elective
-     - [Designing Energy Systems](https://www.sutd.edu.sg/course/",RAG_Base,"The second response provides more detailed and specific information about the elective modules available for Freshmore students in Term 3, including links to more information about each module. The first response lacks detail and repeats the same module multiple times."
+     - [Designing Energy Systems](https://www.sutd.edu.sg/course/",RAG_Base,"Model 2 provides a more complete and relevant answer, including specific module names and links. Model 1 only lists one module repeatedly."
 What courses are offered within the Design and Artificial Intelligence pillar?," The Design and Artificial Intelligence pillar includes courses on the following topics:
 Design for AI
 Artificial Intelligence (AI) is a subset of the broader field of machine learning. Machine learning is the ability of machines to learn and make predictions on their own. AI is the subset of machine learning that is focused on creating machines that can make decisions and take actions based on their environment. AI is used in a wide range of applications, including healthcare, finance, and transportation. AI is also used in research and","045
-",RAG_Base,"The second response does not provide relevant information about the courses offered within the Design and Artificial Intelligence pillar, while the first response does."
+",No_RAG_Finetune,"Model 2 is nonsensical. Model 1 at least attempts to answer the question, even if it doesn't fully succeed."
 Who are some of the instructors teaching the courses in the DAI program?," Dr. Paul E. Johnson, Dr. Robert L. Schutt, Dr. Charles H. Hirsch, Dr. Robert S. Kohn, Dr. Robert J. Gorman, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S. Kohn, Dr. Robert S."," Answer: Our instructors are from the following departments and schools: 
     - Computer Science & Engineering, School of Engineering & Science, Nanyang Technological University, Singapore.
     - Humanities, School of Humanities & Social Sciences, Nanyang Technological University, Singapore.
     - Science, School of Humanities & Social Sciences, Nanyang Technological University, Singapore.
     - Social Science, School of Humanities & Social Sciences, Nanyang Technological University, Singapore.
-    - Social Science",RAG_Base,"The second response provides more detailed and organized information about the instructors teaching the courses in the DAI program, including their departments and schools, while the first response only lists the names of the instructors without any additional context."
+    - Social Science",No_RAG_Finetune,"Model 1 provides a list of names, which is what the question is asking for. Model 2 provides a list of departments, which is not what the question is asking for."
 What are the main steps involved in the SUTD application process?," The SUTD application process includes the following main steps:
 1. Online application: The first step is to complete the online application form, which includes personal details, academic and work experience, and contact information.
 2. Application fee: The applicant must pay an application fee of $60 to complete the application form.
@@ -176,4 +176,4 @@ What are the main steps involved in the SUTD application process?," The SUTD app
      5. Attend the interview
      6. Make a decision
     Question: How do I know if I am successful in my application?
-    Answer: If you are successful in your application, you will be invited to attend an interview at SUTD",RAG_Base,"The second response provides a more concise and clear outline of the main steps involved in the SUTD application process, including specific actions like registering, submitting the application form, uploading supporting documents, answering questions, attending an interview, and making a decision. It also addresses a common question about how to know if the application is successful."
+    Answer: If you are successful in your application, you will be invited to attend an interview at SUTD",RAG_Base,Model 2 is better because it provides a more complete and coherent overview of the SUTD application process. Model 1 is incomplete and ends abruptly.
